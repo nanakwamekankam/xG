@@ -1,0 +1,6 @@
+** An improvement is to do involve positional data, that finds the closest players when the shot 
+was taken and get a measure of their defensive abilities. This will also be used to measure the 
+difficulty of each shot with the goal keeper's ability to save.
+
+
+

@@ -1,0 +1,453 @@
+,player_id,player,statsbomb_name_norm,Player Name,fifa_name_norm,match_name_norm,Shooting,Saving,Source,match_method,match_score
+0,3463.0,Junior Stanislas,junior stanislas,Junior Stanislas,junior stanislas,junior stanislas,61.333333333333336,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+1,3346.0,Joshua King,joshua king,Joshua King,joshua king,joshua king,64.33333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+2,3814.0,Riyad Mahrez,riyad mahrez,Riyad Mahrez,riyad mahrez,riyad mahrez,74.83333333333333,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+3,10960.0,Jamie Vardy,jamie vardy,Jamie Vardy,jamie vardy,jamie vardy,78.0,13.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+4,3343.0,Dan Gosling,dan gosling,Dan Gosling,dan gosling,dan gosling,68.33333333333333,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+5,3813.0,Wes Morgan,wes morgan,Wes Morgan,wes morgan,wes morgan,30.833333333333332,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+6,6409.0,Adam Smith,adam smith,Adam Smith,adam smith,adam smith,52.666666666666664,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+7,40123.0,Robert Huth,robert huth,Robert Huth,robert huth,robert huth,53.166666666666664,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+8,3345.0,Charlie Daniels,charlie daniels,Charlie Daniels,charlie daniels,charlie daniels,50.166666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+9,3810.0,Shinji Okazaki,shinji okazaki,Shinji Okazaki,shinji okazaki,shinji okazaki,75.0,7.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+10,3662.0,Danny Drinkwater,danny drinkwater,Danny Drinkwater,danny drinkwater,danny drinkwater,63.833333333333336,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+11,10783.0,Lee Cattermole,lee cattermole,Lee Cattermole,lee cattermole,lee cattermole,60.0,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+12,9554.0,Steven Fletcher,steven fletcher,Steven Fletcher,steven fletcher,steven fletcher,73.0,0.0,manual_fifa_index,exact,100
+13,10503.0,Billy Jones,billy jones,Billy Jones,billy jones,billy jones,53.0,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+14,2966.0,Stéphane Sessègnon,stephane sessegnon,Stéphane Sessègnon,stephane sessegnon,stephane sessegnon,72.83333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+15,3514.0,James McClean,james mcclean,James McClean,james mcclean,james mcclean,66.33333333333333,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+16,3523.0,Craig Dawson,craig dawson,Craig Dawson,craig dawson,craig dawson,43.666666666666664,6.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+17,4630.0,Saido Berahino,saido berahino,Saido Berahino,saido berahino,saido berahino,76.5,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+18,3337.0,Jermain Defoe,jermain defoe,Jermain Defoe,jermain defoe,jermain defoe,81.0,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+19,4217.0,Danny Graham,danny graham,Danny Graham,danny graham,danny graham,71.16666666666667,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+20,30289.0,Papiss Demba Cissé,papiss demba cisse,Papiss Demba Cissé,papiss demba cisse,papiss demba cisse,79.0,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+21,4269.0,Aleksandar Mitrović,aleksandar mitrovic,Aleksandar Mitrović,aleksandar mitrovic,aleksandar mitrovic,76.33333333333333,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+22,26207.0,Fabricio Coloccini,fabricio coloccini,Fabricio Coloccini,fabricio coloccini,fabricio coloccini,54.5,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+23,3583.0,Ashley Westwood,ashley westwood,Ashley Westwood,ashley westwood,ashley westwood,54.0,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+24,9533.0,Leandro Bacuna,leandro bacuna,Leandro Bacuna,leandro bacuna,leandro bacuna,72.5,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+25,7153.0,Jordan Veretout,jordan veretout,Jordan Veretout,jordan veretout,jordan veretout,72.83333333333333,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+26,3091.0,Moussa Sissoko,moussa sissoko,Moussa Sissoko,moussa sissoko,moussa sissoko,73.16666666666667,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+27,3450.0,Jordan Ayew,jordan ayew,Jordan Ayew,jordan ayew,jordan ayew,74.83333333333333,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+28,19362.0,Rudy Gestede,rudy gestede,Rudy Gestede,rudy gestede,rudy gestede,71.16666666666667,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+29,3567.0,Georginio Wijnaldum,georginio wijnaldum,Georginio Wijnaldum,georginio wijnaldum,georginio wijnaldum,74.5,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+30,3683.0,Tom Cleverley,tom cleverley,Tom Cleverley,tom cleverley,tom cleverley,71.16666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+31,3646.0,Marc Pugh,marc pugh,Marc Pugh,marc pugh,marc pugh,64.33333333333333,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+32,4275.0,Ross Barkley,ross barkley,Ross Barkley,ross barkley,ross barkley,70.66666666666667,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+33,3049.0,Matt Ritchie,matt ritchie,Matt Ritchie,matt ritchie,matt ritchie,68.16666666666667,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+34,3341.0,Steve Cook,steve cook,Steve Cook,steve cook,steve cook,23.5,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+35,3616.0,Callum Wilson,callum wilson,Callum Wilson,callum wilson,callum wilson,71.5,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+36,3518.0,Leighton Baines,leighton baines,Leighton Baines,leighton baines,leighton baines,76.16666666666667,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+37,3953.0,Aaron Lennon,aaron lennon,Aaron Lennon,aaron lennon,aaron lennon,64.33333333333333,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+38,129558.0,Tony Hibbert,tony hibbert,Tony Hibbert,tony hibbert,tony hibbert,26.5,14.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+39,3278.0,Benik Afobe,benik afobe,Benik Afobe,benik afobe,benik afobe,72.16666666666667,7.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+40,3277.0,Yohan Cabaye,yohan cabaye,Yohan Cabaye,yohan cabaye,yohan cabaye,76.83333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+41,3454.0,Troy Deeney,troy deeney,Troy Deeney,troy deeney,troy deeney,77.0,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+42,20641.0,Connor Wickham,connor wickham,Connor Wickham,connor wickham,connor wickham,71.33333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+43,26699.0,Emmanuel Adebayor,emmanuel adebayor,Emmanuel Adebayor,emmanuel adebayor,emmanuel adebayor,77.66666666666667,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+44,15892.0,Jordon Mutch,jordon mutch,Jordon Mutch,jordon mutch,jordon mutch,67.66666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+45,3306.0,Nathan Aké,nathan ake,Nathan Aké,nathan ake,nathan ake,50.333333333333336,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+46,3693.0,Damien Delaney,damien delaney,Damien Delaney,damien delaney,damien delaney,44.5,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+47,3507.0,Wilfried Zaha,wilfried zaha,Wilfried Zaha,wilfried zaha,wilfried zaha,65.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+48,43081.0,Almen Abdi,almen abdi,Almen Abdi,almen abdi,almen abdi,67.5,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+49,3443.0,Joel Ward,joel ward,Joel Ward,joel ward,joel ward,52.666666666666664,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+50,3604.0,Olivier Giroud,olivier giroud,Olivier Giroud,olivier giroud,olivier giroud,81.66666666666667,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+51,3388.0,Jack Wilshere,jack wilshere,Jack Wilshere,jack wilshere,jack wilshere,70.16666666666667,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+52,11117.0,Scott Sinclair,scott sinclair,Scott Sinclair,scott sinclair,scott sinclair,71.83333333333333,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+53,75899.0,Kevin Toner,kevin toner,Kevin Toner,kevin toner,kevin toner,34.166666666666664,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+54,9638.0,Jack Grealish,jack grealish,Jack Grealish,jack grealish,jack grealish,57.5,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+55,42700.0,Micah Richards,micah richards,Micah Richards,micah richards,micah richards,49.666666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+56,42703.0,Mikel Arteta Amatriain,mikel arteta amatriain,Mikel Arteta Amatriain,mikel arteta amatriain,mikel arteta amatriain,75.0,0.0,manual_fifa_index,exact,100
+57,4243.0,Cameron Brannagan,cameron brannagan,Cameron Brannagan,cameron brannagan,cameron brannagan,48.0,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+58,3635.0,Jordon Ibe,jordon ibe,Jordon Ibe,jordon ibe,jordon ibe,64.0,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+59,10931.0,Joe Allen,joe allen,Joe Allen,joe allen,joe allen,56.333333333333336,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+60,4129.0,Tyler Roberts,tyler roberts,Tyler Roberts,tyler roberts,tyler roberts,59.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+61,10955.0,Harry Kane,harry kane,Harry Kane,harry kane,harry kane,80.16666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+62,3205.0,Kyle Walker,kyle walker,Kyle Walker,kyle walker,kyle walker,64.83333333333333,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+63,10956.0,Eric Dier,eric dier,Eric Dier,eric dier,eric dier,62.333333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+64,3594.0,Danny Rose,danny rose,Danny Rose,danny rose,danny rose,63.333333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+65,9593.0,Lewis Grabban,lewis grabban,Lewis Grabban,lewis grabban,lewis grabban,70.16666666666667,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+66,40127.0,Ryan Mason,ryan mason,Ryan Mason,ryan mason,ryan mason,69.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+67,3089.0,Kevin De Bruyne,kevin de bruyne,Kevin De Bruyne,kevin de bruyne,kevin de bruyne,82.16666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+68,3233.0,Raheem Sterling,raheem sterling,Raheem Sterling,raheem sterling,raheem sterling,69.0,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+69,5596.0,Aleksandar Kolarov,aleksandar kolarov,Aleksandar Kolarov,aleksandar kolarov,aleksandar kolarov,72.16666666666667,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+70,7110.0,Bacary Sagna,bacary sagna,Bacary Sagna,bacary sagna,bacary sagna,58.666666666666664,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+71,3307.0,Marc Albrighton,marc albrighton,Marc Albrighton,marc albrighton,marc albrighton,67.83333333333333,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+72,3812.0,Christian Fuchs,christian fuchs,Christian Fuchs,christian fuchs,christian fuchs,71.83333333333333,13.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+73,3092.0,Dwight Gayle,dwight gayle,Dwight Gayle,dwight gayle,dwight gayle,71.16666666666667,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+74,4589.0,Séamus Coleman,seamus coleman,Séamus Coleman,seamus coleman,seamus coleman,68.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+75,26696.0,Arouna Koné,arouna kone,Arouna Koné,arouna kone,arouna kone,74.16666666666667,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+76,5489.0,Mile Jedinak,mile jedinak,Mile Jedinák,mile jedinak,mile jedinak,68.83333333333333,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+77,19688.0,Jason Puncheon,jason puncheon,Jason Puncheon,jason puncheon,jason puncheon,74.0,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+78,3244.0,John Stones,john stones,John Stones,john stones,john stones,38.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+79,9930.0,Ryan Bennett,ryan bennett,Ryan Bennett,ryan bennett,ryan bennett,25.166666666666668,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+80,4807.0,Cameron Jerome,cameron jerome,Cameron Jerome,cameron jerome,cameron jerome,72.0,14.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+81,3286.0,Nathan Redmond,nathan redmond,Nathan Redmond,nathan redmond,nathan redmond,66.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+82,10457.0,Patrick Bamford,patrick bamford,Patrick Bamford,patrick bamford,patrick bamford,66.66666666666667,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+83,18751.0,Jack Rodwell,jack rodwell,Jack Rodwell,jack rodwell,jack rodwell,70.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+84,3196.0,Wahbi Khazri,wahbi khazri,Wahbi Khazri,wahbi khazri,wahbi khazri,77.16666666666667,7.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+85,3407.0,Scott Dann,scott dann,Scott Dann,scott dann,scott dann,35.5,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+86,4746.0,Younes Kaboul,younes kaboul,Younès Kaboul,younes kaboul,younes kaboul,49.5,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+87,3321.0,Patrick van Aanholt,patrick van aanholt,Patrick van Aanholt,patrick van aanholt,patrick van aanholt,61.0,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+88,7171.0,Fabio Borini,fabio borini,Fabio Borini,fabio borini,fabio borini,75.33333333333333,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+89,3469.0,Bakary Sako,bakary sako,Bakary Sako,bakary sako,bakary sako,75.66666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+90,21212.0,Russell Martin,russell martin,Russell Martin,russell martin,russell martin,56.666666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+91,4022.0,Darren Fletcher,darren fletcher,Darren Fletcher,darren fletcher,darren fletcher,65.66666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+92,9485.0,Craig Gardner,craig gardner,Craig Gardner,craig gardner,craig gardner,76.66666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+93,3585.0,Erik Lamela,erik lamela,Erik Lamela,erik lamela,erik lamela,78.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+94,20285.0,Joleon Lescott,joleon lescott,Joleon Lescott,joleon lescott,joleon lescott,48.0,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+95,3493.0,Emre Can,emre can,Emre Can,emre can,emre can,65.66666666666667,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+96,3471.0,Dejan Lovren,dejan lovren,Dejan Lovren,dejan lovren,dejan lovren,40.833333333333336,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+97,3621.0,Eden Hazard,eden hazard,Eden Hazard,eden hazard,eden hazard,81.83333333333333,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+98,3645.0,Gary Cahill,gary cahill,Gary Cahill,gary cahill,gary cahill,55.0,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+99,42902.0,Adam Johnson,adam johnson,Adam Johnson,adam johnson,adam johnson,73.0,0.0,manual_fifa_index,exact,100
+100,22281.0,Duncan Watmore,duncan watmore,Duncan Watmore,duncan watmore,duncan watmore,62.833333333333336,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+101,2988.0,Memphis Depay,memphis depay,Memphis Depay,memphis depay,memphis depay,75.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+102,3325.0,Marko Arnautović,marko arnautovic,Marko Arnautović,marko arnautovic,marko arnautovic,75.5,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+103,3467.0,Erik Pieters,erik pieters,Erik Pieters,erik pieters,erik pieters,46.5,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+104,20039.0,Anthony Martial,anthony martial,Anthony Martial,anthony martial,anthony martial,75.66666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+105,4891.0,Ibrahim Afellay,ibrahim afellay,Ibrahim Afellay,ibrahim afellay,ibrahim afellay,72.83333333333333,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+106,3636.0,Charlie Adam,charlie adam,Charlie Adam,charlie adam,charlie adam,79.16666666666667,6.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+107,3626.0,Ben Watson,ben watson,Ben Watson,ben watson,ben watson,68.0,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+108,40118.0,Ikechi Anya,ikechi anya,Ikechi Anya,ikechi anya,ikechi anya,60.0,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+109,3533.0,Xherdan Shaqiri,xherdan shaqiri,Xherdan Shaqiri,xherdan shaqiri,xherdan shaqiri,75.66666666666667,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+110,3670.0,Jonathan Walters,jonathan walters,Jonathan Walters,jonathan walters,jonathan walters,71.83333333333333,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+111,3721.0,Etienne Capoue,etienne capoue,Etienne Capoue,etienne capoue,etienne capoue,61.833333333333336,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+112,3480.0,Geoff Cameron,geoff cameron,Geoff Cameron,geoff cameron,geoff cameron,59.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+113,4597.0,Fabian Delph,fabian delph,Fabian Delph,fabian delph,fabian delph,68.5,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+114,28100.0,Ramires Santos do Nascimento,ramires santos do nascimento,Ramires Santos do Nascimen.,ramires santos do nascimen,ramires santos do nascimento,70.0,0.0,manual_fifa_index,exact,100
+115,4724.0,Glen Johnson,glen johnson,Glen Johnson,glen johnson,glen johnson,65.16666666666667,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+116,9625.0,Glenn Whelan,glenn whelan,Glenn Whelan,glenn whelan,glenn whelan,64.5,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+117,3381.0,Nemanja Matić,nemanja matic,Nemanja Matić,nemanja matic,nemanja matic,71.33333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+118,6623.0,Loïc Rémy,loic remy,Loïc Rémy,loic remy,loic remy,78.0,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+119,3085.0,Glenn Murray,glenn murray,Glenn Murray,glenn murray,glenn murray,72.83333333333333,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+120,40218.0,Sylvain Distin,sylvain distin,Sylvain Distin,sylvain distin,sylvain distin,42.666666666666664,7.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+121,8251.0,Marco van Ginkel,marco van ginkel,Marco van Ginkel,marco van ginkel,marco van ginkel,72.16666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+122,28782.0,Ritchie De Laet,ritchie de laet,Ritchie De Laet,ritchie de laet,ritchie de laet,43.833333333333336,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+123,9648.0,Paddy McNair,paddy mcnair,Paddy McNair,paddy mcnair,paddy mcnair,41.0,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+124,3963.0,Victor Moses,victor moses,Victor Moses,victor moses,victor moses,70.5,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+125,27853.0,Mauro Matías Zárate,mauro matias zarate,Mauro Zárate,mauro zarate,mauro matias zarate,78.0,0.0,manual_fifa_index,exact,100
+126,4280.0,Winston Reid,winston reid,Winston Reid,winston reid,winston reid,50.166666666666664,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+127,4587.0,Matteo Darmian,matteo darmian,Matteo Darmian,matteo darmian,matteo darmian,55.166666666666664,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+128,10958.0,Chris Smalling,chris smalling,Chris Smalling,chris smalling,chris smalling,41.333333333333336,13.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+129,3293.0,Jesse Lingard,jesse lingard,Jesse Lingard,jesse lingard,jesse lingard,65.33333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+130,3600.0,Morgan Schneiderlin,morgan schneiderlin,Morgan Schneiderlin,morgan schneiderlin,morgan schneiderlin,61.666666666666664,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+131,3874.0,Mark Noble,mark noble,Mark Noble,mark noble,mark noble,70.5,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+132,18414.0,Bastian Schweinsteiger,bastian schweinsteiger,Bastian Schweinsteiger,bastian schweinsteiger,bastian schweinsteiger,80.5,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+133,4751.0,Michael Carrick,michael carrick,Michael Carrick,michael carrick,michael carrick,66.33333333333333,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+134,3490.0,James Morrison,james morrison,James Morrison,james morrison,james morrison,75.83333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+135,20527.0,Jonas Olsson,jonas olsson,Jonas Olsson,jonas olsson,jonas olsson,54.166666666666664,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+136,3991.0,Allan Romeo Nyom,allan romeo nyom,Allan-Roméo Nyom,allan romeo nyom,allan romeo nyom,50.166666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+137,3464.0,James McArthur,james mcarthur,James McArthur,james mcarthur,james mcarthur,62.166666666666664,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+138,16457.0,Jeremain Lens,jeremain lens,Jeremain Lens,jeremain lens,jeremain lens,75.66666666666667,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+139,3449.0,Wayne Routledge,wayne routledge,Wayne Routledge,wayne routledge,wayne routledge,66.33333333333333,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+140,4726.0,Kyle Bartley,kyle bartley,Kyle Bartley,kyle bartley,kyle bartley,29.0,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+141,15996.0,Éderzito António Macedo Lopes,ederzito antonio macedo lopes,Éder Macedo Lopes,eder macedo lopes,ederzito antonio macedo lopes,75.0,0.0,manual_fifa_index,exact,100
+142,3057.0,Jonjo Shelvey,jonjo shelvey,Jonjo Shelvey,jonjo shelvey,jonjo shelvey,72.33333333333333,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+143,3304.0,Harry Arter,harry arter,Harry Arter,harry arter,harry arter,70.0,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+144,9627.0,Neil Taylor,neil taylor,Neil Taylor,neil taylor,neil taylor,45.0,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+145,3629.0,Sadio Mané,sadio mane,Sadio Mané,sadio mane,sadio mane,71.5,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+146,3669.0,Virgil van Dijk,virgil van dijk,Virgil van Dijk,virgil van dijk,virgil van dijk,58.0,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+147,3098.0,Victor Wanyama,victor wanyama,Victor Wanyama,victor wanyama,victor wanyama,66.0,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+148,11062.0,Graziano Pellè,graziano pelle,Graziano Pellè,graziano pelle,graziano pelle,78.16666666666667,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+149,3328.0,James Ward-Prowse,james ward prowse,James Ward-Prowse,james ward prowse,james ward prowse,62.166666666666664,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+150,4317.0,Kevin Mirallas,kevin mirallas,Kevin Mirallas,kevin mirallas,kevin mirallas,77.0,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+151,9649.0,Jack Colback,jack colback,Jack Colback,jack colback,jack colback,58.0,7.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+152,11124.0,Steven Whittaker,steven whittaker,Steven Whittaker,steven whittaker,steven whittaker,64.5,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+153,16334.0,Graham Dorrans,graham dorrans,Graham Dorrans,graham dorrans,graham dorrans,71.33333333333333,7.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+154,4804.0,Bradley Johnson,bradley johnson,Bradley Johnson,bradley johnson,bradley johnson,75.0,0.0,manual_fifa_index,exact,100
+155,20521.0,Bafétimbi Gomis,bafetimbi gomis,Bafétimbi Gomis,bafetimbi gomis,bafetimbi gomis,80.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+156,3394.0,Laurent Koscielny,laurent koscielny,Laurent Koscielny,laurent koscielny,laurent koscielny,41.666666666666664,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+157,3644.0,Ashley Williams,ashley williams,Ashley Williams,ashley williams,ashley williams,41.333333333333336,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+158,3496.0,Mesut Özil,mesut ozil,Mesut Özil,mesut ozil,mesut ozil,76.33333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+159,3517.0,Aaron Ramsey,aaron ramsey,Aaron Ramsey,aaron ramsey,aaron ramsey,78.0,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+160,10966.0,Wes Hoolahan,wes hoolahan,Wes Hoolahan,wes hoolahan,wes hoolahan,70.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+161,23742.0,Vadis Odjidja-Ofoe,vadis odjidja ofoe,Vadis Odjidja-Ofoe,vadis odjidja ofoe,vadis odjidja ofoe,71.5,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+162,16027.0,Kevin Mbabu,kevin mbabu,Kevin Mbabu,kevin mbabu,kevin mbabu,31.333333333333332,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+163,16072.0,Vurnon Anita,vurnon anita,Vurnon Anita,vurnon anita,vurnon anita,52.833333333333336,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+164,3650.0,Daryl Janmaat,daryl janmaat,Daryl Janmaat,daryl janmaat,daryl janmaat,65.33333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+165,5594.0,Branislav Ivanović,branislav ivanovic,Branislav Ivanović,branislav ivanovic,branislav ivanovic,59.833333333333336,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+166,40124.0,Rickie Lambert,rickie lambert,Rickie Lambert,rickie lambert,rickie lambert,81.16666666666667,13.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+167,9551.0,Callum McManaman,callum mcmanaman,Callum McManaman,callum mcmanaman,callum mcmanaman,63.666666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+168,4417.0,Ola Toivonen,ola toivonen,Ola Toivonen,ola toivonen,ola toivonen,76.16666666666667,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+169,9642.0,Alan Hutton,alan hutton,Alan Hutton,alan hutton,alan hutton,50.833333333333336,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+170,3041.0,Ciaran Clark,ciaran clark,Ciaran Clark,ciaran clark,ciaran clark,55.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+171,16067.0,Josh Onomah,josh onomah,Josh Onomah,josh onomah,josh onomah,54.333333333333336,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+172,3828.0,Steven Davis,steven davis,Steven Davis,steven davis,steven davis,63.0,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+173,20045.0,Ryan Bertrand,ryan bertrand,Ryan Bertrand,ryan bertrand,ryan bertrand,50.833333333333336,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+174,3831.0,Dušan Tadić,dusan tadic,Dušan Tadić,dusan tadic,dusan tadic,71.33333333333333,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+175,3668.0,Theo Walcott,theo walcott,Theo Walcott,theo walcott,theo walcott,75.16666666666667,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+176,42701.0,Kieran Richardson,kieran richardson,Kieran Richardson,kieran richardson,kieran richardson,71.0,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+177,3290.0,Federico Fernández,federico fernandez,Federico Fernández,federico fernandez,federico fernandez,30.166666666666668,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+178,9536.0,Modou Barrow,modou barrow,Modou Barrow,modou barrow,modou barrow,60.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+179,3541.0,Chris Brunt,chris brunt,Chris Brunt,chris brunt,chris brunt,72.16666666666667,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+180,3520.0,Jeffrey Schlupp,jeffrey schlupp,Jeffrey Schlupp,jeffrey schlupp,jeffrey schlupp,63.0,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+181,3608.0,Simon Francis,simon francis,Simon Francis,simon francis,simon francis,46.5,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+182,3595.0,Manuel Lanzini,manuel lanzini,Manuel Lanzini,manuel lanzini,manuel lanzini,69.16666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+183,3495.0,Joe Gomez,joe gomez,Joe Gomez,joe gomez,joe gomez,32.333333333333336,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+184,3684.0,Cheikhou Kouyaté,cheikhou kouyate,Cheikhou Kouyaté,cheikhou kouyate,cheikhou kouyate,61.833333333333336,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+185,3062.0,Aaron Cresswell,aaron cresswell,Aaron Cresswell,aaron cresswell,aaron cresswell,57.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+186,3962.0,Diafra Sakho,diafra sakho,Diafra Sakho,diafra sakho,diafra sakho,73.0,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+187,3254.0,Florian Thauvin,florian thauvin,Florian Thauvin,florian thauvin,florian thauvin,69.0,0.0,manual_fifa_index,exact,100
+188,4840.0,Massadio Haïdara,massadio haidara,Massadio Haïdara,massadio haidara,massadio haidara,51.666666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+189,3842.0,Shane Long,shane long,Shane Long,shane long,shane long,73.83333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+190,20287.0,John Terry,john terry,John Terry,john terry,john terry,47.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+191,9528.0,Steven Naismith,steven naismith,Steven Naismith,steven naismith,steven naismith,73.33333333333333,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+192,22594.0,Matt Jarvis,matt jarvis,Matt Jarvis,matt jarvis,matt jarvis,63.833333333333336,7.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+193,20005.0,Toby Alderweireld,toby alderweireld,Toby Alderweireld,toby alderweireld,toby alderweireld,58.5,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+194,4831.0,Nacer Chadli,nacer chadli,Nacer Chadli,nacer chadli,nacer chadli,76.33333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+195,3297.0,Andros Townsend,andros townsend,Andros Townsend,andros townsend,andros townsend,73.0,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+196,21254.0,Carl Jenkinson,carl jenkinson,Carl Jenkinson,carl jenkinson,carl jenkinson,55.0,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+197,3491.0,Dimitri Payet,dimitri payet,Dimitri Payet,dimitri payet,dimitri payet,78.16666666666667,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+198,20543.0,Nikica Jelavić,nikica jelavic,Nikica Jelavić,nikica jelavic,nikica jelavic,74.0,0.0,manual_fifa_index,exact,100
+199,43695.0,Brede Hangeland,brede hangeland,Brede Hangeland,brede hangeland,brede hangeland,40.0,0.0,manual_fifa_index,exact,100
+200,4271.0,Andy Carroll,andy carroll,Andy Carroll,andy carroll,andy carroll,76.83333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+201,40121.0,Philipp Wollscheid,philipp wollscheid,Philipp Wollscheid,philipp wollscheid,philipp wollscheid,38.333333333333336,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+202,3081.0,Jamaal Lascelles,jamaal lascelles,Jamaal Lascelles,jamaal lascelles,jamaal lascelles,27.166666666666668,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+203,3633.0,Gareth Barry,gareth barry,Gareth Barry,gareth barry,gareth barry,66.5,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+204,18872.0,Martin Škrtel,martin skrtel,Martin Škrtel,martin skrtel,martin skrtel,40.666666666666664,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+205,3483.0,Mamadou Sakho,mamadou sakho,Mamadou Sakho,mamadou sakho,mamadou sakho,34.0,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+206,3607.0,James McCarthy,james mccarthy,James McCarthy,james mccarthy,james mccarthy,65.83333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+207,3340.0,Kyle Naughton,kyle naughton,Kyle Naughton,kyle naughton,kyle naughton,53.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+208,3270.0,Danny Simpson,danny simpson,Danny Simpson,danny simpson,danny simpson,46.666666666666664,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+209,3083.0,Heung-Min Son,heung min son,Heung Min Son,heung min son,heung min son,78.83333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+210,4828.0,Adlène Guédioura,adlene guedioura,Adlène Guédioura,adlene guedioura,adlene guedioura,67.0,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+211,5617.0,Sebastian Larsson,sebastian larsson,Sebastian Larsson,sebastian larsson,sebastian larsson,75.66666666666667,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+212,20230.0,Gökhan İnler,gokhan inler,Gökhan Inler,gokhan inler,gokhan inler,74.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+213,3631.0,Nathan Dyer,nathan dyer,Nathan Dyer,nathan dyer,nathan dyer,70.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+214,3310.0,Tom Carroll,tom carroll,Tom Carroll,tom carroll,tom carroll,59.166666666666664,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+215,3685.0,Jay Rodriguez,jay rodriguez,Jay Rodriguez,jay rodriguez,jay rodriguez,75.5,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+216,3300.0,Maya Yoshida,maya yoshida,Maya Yoshida,maya yoshida,maya yoshida,46.166666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+217,3528.0,Kieran Gibbs,kieran gibbs,Kieran Gibbs,kieran gibbs,kieran gibbs,59.833333333333336,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+218,3525.0,Alex Oxlade-Chamberlain,alex oxlade chamberlain,Alex Oxlade-Chamberlain,alex oxlade chamberlain,alex oxlade chamberlain,70.33333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+219,4632.0,Stephen Ireland,stephen ireland,Stephen Ireland,stephen ireland,stephen ireland,69.83333333333333,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+220,3389.0,Eliaquim Mangala,eliaquim mangala,Eliaquim Mangala,eliaquim mangala,eliaquim mangala,44.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+221,6330.0,Adnan Januzaj,adnan januzaj,Adnan Januzaj,adnan januzaj,adnan januzaj,64.33333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+222,20067.0,Darron Gibson,darron gibson,Darron Gibson,darron gibson,darron gibson,69.16666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+223,3612.0,Ashley Young,ashley young,Ashley Young,ashley young,ashley young,72.0,14.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+224,3504.0,Ruben Loftus-Cheek,ruben loftus cheek,Ruben Loftus-Cheek,ruben loftus cheek,ruben loftus cheek,50.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+225,4738.0,Lee Tomlin,lee tomlin,Lee Tomlin,lee tomlin,lee tomlin,69.33333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+226,3344.0,Andrew Surman,andrew surman,Andrew Surman,andrew surman,andrew surman,63.666666666666664,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+227,5460.0,Andrej Kramarić,andrej kramaric,Andrej Kramarić,andrej kramaric,andrej kramaric,76.33333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+228,3314.0,Phil Jones,phil jones,Phil Jones,phil jones,phil jones,55.666666666666664,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+229,3349.0,Michail Antonio,michail antonio,Michail Antonio,michail antonio,michail antonio,72.33333333333333,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+230,4035.0,Ryan Shawcross,ryan shawcross,Ryan Shawcross,ryan shawcross,ryan shawcross,39.833333333333336,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+231,3482.0,James Collins,james collins,James Collins,james collins,james collins,46.666666666666664,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+232,3065.0,Paul Dummett,paul dummett,Paul Dummett,paul dummett,paul dummett,41.166666666666664,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+233,6631.0,Mathieu Flamini,mathieu flamini,Mathieu Flamini,mathieu flamini,mathieu flamini,68.16666666666667,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+234,3101.0,Vincent Kompany,vincent kompany,Vincent Kompany,vincent kompany,vincent kompany,54.333333333333336,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+235,3576.0,Martin Olsson,martin olsson,Martin Olsson,martin olsson,martin olsson,62.833333333333336,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+236,20253.0,Samir Nasri,samir nasri,Samir Nasri,samir nasri,samir nasri,76.5,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+237,50245.0,Marouane Chamakh,marouane chamakh,Marouane Chamakh,marouane chamakh,marouane chamakh,76.33333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+238,3263.0,Craig Cathcart,craig cathcart,Craig Cathcart,craig cathcart,craig cathcart,35.166666666666664,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+239,3658.0,DeAndre Yedlin,deandre yedlin,DeAndre Yedlin,deandre yedlin,deandre yedlin,54.833333333333336,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+240,3713.0,Calum Chambers,calum chambers,Calum Chambers,calum chambers,calum chambers,52.0,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+241,3077.0,Jan Vertonghen,jan vertonghen,Jan Vertonghen,jan vertonghen,jan vertonghen,66.5,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+242,3086.0,Ben Davies,ben davies,Ben Davies,ben davies,ben davies,49.666666666666664,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+243,9641.0,Fraizer Campbell,fraizer campbell,Fraizer Campbell,fraizer campbell,fraizer campbell,68.66666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+244,3448.0,Martin Kelly,martin kelly,Martin Kelly,martin kelly,martin kelly,46.833333333333336,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+245,3309.0,Sebastian Prödl,sebastian prodl,Sebastian Prödl,sebastian prodl,sebastian prodl,34.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+246,7745.0,Steven Berghuis,steven berghuis,Steven Berghuis,steven berghuis,steven berghuis,73.83333333333333,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+247,4347.0,Jordan Amavi,jordan amavi,Jordan Amavi,jordan amavi,jordan amavi,66.83333333333333,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+248,3596.0,Gareth McAuley,gareth mcauley,Gareth McAuley,gareth mcauley,gareth mcauley,40.166666666666664,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+249,3311.0,Daley Blind,daley blind,Daley Blind,daley blind,daley blind,60.333333333333336,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+250,3382.0,Luke Shaw,luke shaw,Luke Shaw,luke shaw,luke shaw,46.166666666666664,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+251,3058.0,Javier Hernández Balcázar,javier hernandez balcazar,Javier Hernández,javier hernandez,javier hernandez balcazar,80.0,0.0,manual_fifa_index,exact,100
+252,20046.0,Phil Jagielka,phil jagielka,Phil Jagielka,phil jagielka,phil jagielka,52.666666666666664,32.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+253,5556.0,Miguel Arturo Layún Prado,miguel arturo layun prado,Miguel Layún,miguel layun,miguel arturo layun prado,74.0,0.0,manual_fifa_index,exact,100
+254,8520.0,Nabil Bentaleb,nabil bentaleb,Nabil Bentaleb,nabil bentaleb,nabil bentaleb,65.5,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+255,4808.0,Andre Wisdom,andre wisdom,Andre Wisdom,andre wisdom,andre wisdom,36.666666666666664,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+256,3308.0,Kieran Trippier,kieran trippier,Kieran Trippier,kieran trippier,kieran trippier,55.0,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+257,4631.0,Leon Britton,leon britton,Leon Britton,leon britton,leon britton,52.5,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+258,3316.0,James Tomkins,james tomkins,James Tomkins,james tomkins,james tomkins,35.666666666666664,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+259,24743.0,Gary Hooper,gary hooper,Gary Hooper,gary hooper,gary hooper,73.0,0.0,manual_fifa_index,exact,100
+260,43757.0,Yoan Gouffran,yoan gouffran,Yoan Gouffran,yoan gouffran,yoan gouffran,74.16666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+261,3643.0,Phil Bardsley,phil bardsley,Phil Bardsley,phil bardsley,phil bardsley,58.5,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+262,16181.0,Jordy Clasie,jordy clasie,Jordy Clasie,jordy clasie,jordy clasie,62.666666666666664,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+263,3475.0,Per Mertesacker,per mertesacker,Per Mertesacker,per mertesacker,per mertesacker,41.166666666666664,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+264,42702.0,Modibo Maïga,modibo maiga,Modibo Maïga,modibo maiga,modibo maiga,64.0,0.0,manual_fifa_index,exact,100
+265,3725.0,José Holebas,jose holebas,Jose Holebas,jose holebas,jose holebas,68.16666666666667,14.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+266,5689.0,Juan Guillermo Cuadrado Bello,juan guillermo cuadrado bello,Juan Cuadrado,juan cuadrado,juan guillermo cuadrado bello,75.0,0.0,manual_fifa_index,exact,100
+267,3651.0,Matt Targett,matt targett,Matt Targett,matt targett,matt targett,40.833333333333336,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+268,19847.0,Alessandro Diamanti,alessandro diamanti,Alessandro Diamanti,alessandro diamanti,alessandro diamanti,73.0,0.0,manual_fifa_index,exact,100
+269,8400.0,Serge Gnabry,serge gnabry,Serge Gnabry,serge gnabry,serge gnabry,59.666666666666664,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+270,13846.0,Jan Kirchhoff,jan kirchhoff,Jan Kirchhoff,jan kirchhoff,jan kirchhoff,39.666666666666664,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+271,13286.0,Lamine Koné,lamine kone,Lamine Koné,lamine kone,lamine kone,36.5,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+272,3302.0,Nordin Amrabat,nordin amrabat,Nordin Amrabat,nordin amrabat,nordin amrabat,76.0,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+273,3647.0,Alex Iwobi,alex iwobi,Alex Iwobi,alex iwobi,alex iwobi,57.166666666666664,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+274,3476.0,Muhamed Bešić,muhamed besic,Muhamed Bešić,muhamed besic,muhamed besic,48.166666666666664,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+275,28247.0,Libor Kozák,libor kozak,Libor Kozák,libor kozak,libor kozak,73.66666666666667,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+276,27146.0,Aly Cissokho,aly cissokho,Aly Cissokho,aly cissokho,aly cissokho,57.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+277,3966.0,Charlie Austin,charlie austin,Charlie Austin,charlie austin,charlie austin,78.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+278,4040.0,Peter Crouch,peter crouch,Peter Crouch,peter crouch,peter crouch,76.16666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+279,6950.0,Alberto Paloschi,alberto paloschi,Alberto Paloschi,alberto paloschi,alberto paloschi,73.16666666666667,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+280,43591.0,Marvin Emnes,marvin emnes,Marvin Emnes,marvin emnes,marvin emnes,66.83333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+281,4700.0,Matthew Pennington,matthew pennington,Matthew Pennington,matthew pennington,matthew pennington,35.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+282,42947.0,Leon Osman,leon osman,Leon Osman,leon osman,leon osman,73.83333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+283,4116.0,Sullay Kaikai,sullay kaikai,Sullay Kaikai,sullay kaikai,sullay kaikai,61.666666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+284,3165.0,Emmanuel Rivière,emmanuel riviere,Emmanuel Rivière,emmanuel riviere,emmanuel riviere,69.66666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+285,9461.0,Timm Klose,timm klose,Timm Klose,timm klose,timm klose,42.666666666666664,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+286,5836.0,Bryan Oviedo,bryan oviedo,Bryan Oviedo,bryan oviedo,bryan oviedo,61.0,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+287,3312.0,Demarai Gray,demarai gray,Demarai Gray,demarai gray,demarai gray,60.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+288,12325.0,Abdul Rahman Baba,abdul rahman baba,Abdul Rahman Baba,abdul rahman baba,abdul rahman baba,48.833333333333336,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+289,3611.0,Kevin Wimmer,kevin wimmer,Kevin Wimmer,kevin wimmer,kevin wimmer,29.666666666666668,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+290,3318.0,Marcus Rashford,marcus rashford,Marcus Rashford,marcus rashford,marcus rashford,65.5,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+291,20302.0,Gaël Clichy,gael clichy,Gaël Clichy,gael clichy,gael clichy,49.833333333333336,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+292,5540.0,Valon Behrami,valon behrami,Valon Behrami,valon behrami,valon behrami,67.5,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+293,3652.0,Tom Davies,tom davies,Tom Davies,tom davies,tom davies,41.333333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+294,3542.0,Jonjoe Kenny,jonjoe kenny,Jonjoe Kenny,jonjoe kenny,jonjoe kenny,36.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+295,3709.0,Daniel Amartey,daniel amartey,Daniel Amartey,daniel amartey,daniel amartey,60.333333333333336,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+296,40125.0,Steven Pienaar,steven pienaar,Steven Pienaar,steven pienaar,steven pienaar,71.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+297,4817.0,Joe Ledley,joe ledley,Joe Ledley,joe ledley,joe ledley,65.66666666666667,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+298,3722.0,Steven Taylor,steven taylor,Steven Taylor,steven taylor,steven taylor,37.0,0.0,manual_fifa_index,exact,100
+299,4273.0,Reece Oxford,reece oxford,Reece Oxford,reece oxford,reece oxford,37.666666666666664,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+300,20066.0,Darren Randolph,darren randolph,Darren Randolph,darren randolph,darren randolph,20.166666666666668,73.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+301,20951.0,Jordan Lyden,jordan lyden,Jordan Lyden,jordan lyden,jordan lyden,50.0,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+302,9626.0,Tommy Elphick,tommy elphick,Tommy Elphick,tommy elphick,tommy elphick,33.0,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+303,9629.0,Stephen Kingsley,stephen kingsley,Stephen Kingsley,stephen kingsley,stephen kingsley,31.833333333333332,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+304,9630.0,Andre Green,andre green,André Green,andre green,andre green,56.5,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+305,3391.0,Rolando Aarons,rolando aarons,Rolando Aarons,rolando aarons,rolando aarons,60.166666666666664,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+306,10779.0,Cameron Borthwick-Jackson,cameron borthwick jackson,Cameron Borthwick-Jackson,cameron borthwick jackson,cameron borthwick jackson,40.333333333333336,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+307,3656.0,Alex Pritchard,alex pritchard,Alex Pritchard,alex pritchard,alex pritchard,65.33333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+308,9070.0,Hiram Boateng,hiram boateng,Hiram Boateng,hiram boateng,hiram boateng,48.5,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+309,3262.0,Łukasz Fabiański,ukasz fabianski,Łukasz Fabiański,ukasz fabianski,ukasz fabianski,16.833333333333332,79.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,exact,100
+310,4428.0,Mathieu Debuchy,mathieu debuchy,Mathieu Debuchy,mathieu debuchy,mathieu debuchy,67.0,0.0,manual_fifa_index,exact,100
+311,3054.0,Fernando Luiz Rosa,fernando luiz rosa,Fernandinho,fernandinho,fernandinho,73.16666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+312,3671.0,José Leonardo Ulloa,jose leonardo ulloa,Leonardo Ulloa,leonardo ulloa,leonardo ulloa,71.33333333333333,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+313,3961.0,N''Golo Kanté,n''golo kante,N'Golo Kanté,n'golo kante,n'golo kante,63.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+314,4429.0,Yann Gérard M''Vila,yann gerard m''vila,Yann M'Vila,yann m'vila,yann m'vila,59.333333333333336,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+315,43627.0,Jordi Gómez García-Penche,jordi gomez garcia penche,Jordi Gómez,jordi gomez,jordi gomez,72.33333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+316,4041.0,José Salomón Rondón Giménez,jose salomon rondon gimenez,Salomón Rondón,salomon rondon,salomon rondon,75.33333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+317,3967.0,Claudio Ariel Yacob,claudio ariel yacob,Claudio Yacob,claudio yacob,claudio yacob,53.166666666666664,7.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+318,3436.0,Idrissa Gana Gueye,idrissa gana gueye,Idrissa Gueye,idrissa gueye,idrissa gueye,57.5,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+319,8061.0,Siem Stefan de Jong,siem stefan de jong,Siem de Jong,siem de jong,siem de jong,79.83333333333333,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+320,5685.0,Carlos Alberto Sánchez Moreno,carlos alberto sanchez moreno,Carlos Sánchez,carlos sanchez,carlos sanchez,59.0,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+321,3076.0,Ayoze Pérez Gutiérrez,ayoze perez gutierrez,Ayoze Pérez,ayoze perez,ayoze perez,72.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+322,3442.0,El-Hadji Baye Oumar Niasse,el hadji baye oumar niasse,Oumar Niasse,oumar niasse,oumar niasse,74.33333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+323,4884.0,Pape N''Diaye Souaré,pape n''diaye souare,Pape Souaré,pape souare,pape souare,53.333333333333336,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+324,5458.0,Odion Jude Ighalo,odion jude ighalo,Odion Ighalo,odion ighalo,odion ighalo,71.83333333333333,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+325,3326.0,Chung-Yong Lee,chung yong lee,Lee Chung Yong,lee chung yong,lee chung yong,64.66666666666667,7.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+326,6746.0,Gabriel Armando de Abreu,gabriel armando de abreu,Gabriel,gabriel,gabriel,53.166666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+327,3385.0,Alexis Alejandro Sánchez Sánchez,alexis alejandro sanchez sanchez,Alexis Sánchez,alexis sanchez,alexis sanchez,80.66666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+328,3511.0,Héctor Bellerín Moruno,hector bellerin moruno,Héctor Bellerín,hector bellerin,hector bellerin,52.833333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+329,3568.0,Mohamed Naser Elsayed Elneny,mohamed naser elsayed elneny,Mohamed Elneny,mohamed elneny,mohamed elneny,62.666666666666664,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+330,11386.0,Santiago Cazorla González,santiago cazorla gonzalez,Santi Cazorla,santi cazorla,santi cazorla,78.5,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+331,13200.0,Oluwaseyi Babajide Ojo,oluwaseyi babajide ojo,Sheyi Ojo,sheyi ojo,sheyi ojo,57.166666666666664,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+332,3380.0,Christian Benteke Liolo,christian benteke liolo,Christian Benteke,christian benteke,christian benteke,78.16666666666667,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+333,3043.0,Christian Dannemann Eriksen,christian dannemann eriksen,Christian Eriksen,christian eriksen,christian eriksen,73.66666666666667,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+334,3094.0,Bamidele Alli,bamidele alli,Dele Alli,dele alli,dele alli,71.33333333333333,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+335,3237.0,Sergio Leonel Agüero del Castillo,sergio leonel aguero del castillo,Sergio Agüero,sergio aguero,sergio aguero,86.66666666666667,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+336,3090.0,Nicolás Hernán Otamendi,nicolas hernan otamendi,Nicolás Otamendi,nicolas otamendi,nicolas otamendi,54.5,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+337,3087.0,Gnégnéri Yaya Touré,gnegneri yaya toure,Yaya Touré,yaya toure,yaya toure,81.0,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+338,3598.0,Wilfried Guemiand Bony,wilfried guemiand bony,Wilfried Bony,wilfried bony,wilfried bony,80.66666666666667,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+339,3589.0,Yannick Bolasie Yala,yannick bolasie yala,Yannick Bolasie,yannick bolasie,yannick bolasie,66.83333333333333,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+340,3289.0,Romelu Lukaku Menama,romelu lukaku menama,Romelu Lukaku,romelu lukaku,romelu lukaku,80.16666666666667,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+341,3958.0,Pedro Eliezer Rodríguez Ledesma,pedro eliezer rodriguez ledesma,Pedro,pedro,pedro,74.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+342,23488.0,Mario Suárez Mata,mario suarez mata,Mario Suárez,mario suarez,mario suarez,66.66666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+343,3654.0,Daniel William John Ings,daniel william john ings,Danny Ings,danny ings,danny ings,72.0,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+344,3462.0,Jack Frank Porteous Cork,jack frank porteous cork,Jack Cork,jack cork,jack cork,54.666666666666664,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+345,4629.0,José Ramiro Funes Mori,jose ramiro funes mori,Ramiro Funes Mori,ramiro funes mori,ramiro funes mori,46.833333333333336,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+346,9463.0,Alexander Banor Tettey,alexander banor tettey,Alexander Tettey,alexander tettey,alexander tettey,70.0,22.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+347,10967.0,Robert Brady,robert brady,Robbie Brady,robbie brady,robbie brady,68.66666666666667,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+348,16295.0,Dame N''Doye,dame n''doye,Dame N'Doye,dame n'doye,dame n'doye,73.66666666666667,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+349,9452.0,Gary O''Neil,gary o''neil,Gary O'Neil,gary o'neil,gary o'neil,64.33333333333333,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+350,3529.0,Daniel Andre Sturridge,daniel andre sturridge,Daniel Sturridge,daniel sturridge,daniel sturridge,81.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+351,3535.0,Roberto Firmino Barbosa de Oliveira,roberto firmino barbosa de oliveira,Roberto Firmino,roberto firmino,roberto firmino,78.5,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+352,3501.0,Philippe Coutinho Correia,philippe coutinho correia,Coutinho,coutinho,coutinho,74.0,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+353,4090.0,Adam David Lallana,adam david lallana,Adam Lallana,adam lallana,adam lallana,71.83333333333333,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+354,2956.0,Bertrand Isidore Traoré,bertrand isidore traore,Bertrand Traoré,bertrand traore,bertrand traore,73.33333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+355,3472.0,Willian Borges da Silva,willian borges da silva,Willian,willian,willian,70.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+356,3478.0,Francesc Fàbregas i Soler,francesc fabregas i soler,Cesc Fàbregas,cesc fabregas,cesc fabregas,78.66666666666667,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+357,38412.0,Kolo Habib Touré,kolo habib toure,Kolo Touré,kolo toure,kolo toure,56.5,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+358,4590.0,Nathaniel Edwin Clyne,nathaniel edwin clyne,Nathaniel Clyne,nathaniel clyne,nathaniel clyne,58.666666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+359,3473.0,James Philip Milner,james philip milner,James Milner,james milner,james milner,78.83333333333333,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+360,3532.0,Jordan Brian Henderson,jordan brian henderson,Jordan Henderson,jordan henderson,jordan henderson,70.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+361,4913.0,Bojan Krkíc Pérez,bojan krkic perez,Bojan,bojan,bojan,74.16666666666667,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+362,3606.0,Ander Herrera Agüera,ander herrera aguera,Ander Herrera,ander herrera,ander herrera,73.5,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+363,3296.0,Marouane Fellaini-Bakkioui,marouane fellaini bakkioui,Marouane Fellaini,marouane fellaini,marouane fellaini,72.16666666666667,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+364,3294.0,Juan Manuel Mata García,juan manuel mata garcia,Juan Mata,juan mata,juan mata,76.5,8.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+365,36983.0,Juan Carlos Paredes Reasco,juan carlos paredes reasco,Juan Carlos Paredes,juan carlos paredes,juan carlos paredes,48.833333333333336,15.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+366,5198.0,Diego da Silva Costa,diego da silva costa,Diego Costa,diego costa,diego costa,80.83333333333333,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+367,40122.0,Oscar dos Santos Emboaba Júnior,oscar dos santos emboaba junior,Oscar,oscar,oscar,73.33333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+368,3603.0,Mame Biram Diouf,mame biram diouf,Mame Diouf,mame diouf,mame diouf,74.66666666666667,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+369,5264.0,Guillermo Varela Olivera,guillermo varela olivera,Guillermo Varela,guillermo varela,guillermo varela,38.333333333333336,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+370,3843.0,Angelo Obinze Ogbonna,angelo obinze ogbonna,Angelo Ogbonna,angelo ogbonna,angelo ogbonna,40.166666666666664,4.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+371,3515.0,Alberto Moreno Pérez,alberto moreno perez,Alberto Moreno,alberto moreno,alberto moreno,61.666666666666664,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+372,4747.0,Divock Okoth Origi,divock okoth origi,Divock Origi,divock origi,divock origi,70.66666666666667,13.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+373,13248.0,Eunan O''Kane,eunan o''kane,Eunan O'Kane,eunan o'kane,eunan o'kane,51.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+374,6300.0,Sebastián Coates Nión,sebastian coates nion,Sebastián Coates,sebastian coates,sebastian coates,41.333333333333336,14.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+375,3347.0,André Ayew Pelé,andre ayew pele,André Ayew,andre ayew,andre ayew,72.33333333333333,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+376,3605.0,Sung-Yeung Ki,sung yeung ki,Ki Sung Yueng,ki sung yueng,ki sung yueng,72.5,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+377,3944.0,Gylfi Þór Sigurðsson,gylfi or sigursson,Gylfi Sigurðsson,gylfi sigursson,gylfi sigursson,80.0,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+378,3272.0,Oriol Romeu Vidal,oriol romeu vidal,Oriol Romeu,oriol romeu,oriol romeu,42.333333333333336,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+379,9578.0,Jonathan Howson,jonathan howson,Jonny Howson,jonny howson,jonny howson,70.33333333333333,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+380,3498.0,Ignacio Monreal Eraso,ignacio monreal eraso,Nacho Monreal,nacho monreal,nacho monreal,58.166666666666664,5.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+381,5581.0,Joel Nathaniel Campbell Samuels,joel nathaniel campbell samuels,Joel Campbell,joel campbell,joel campbell,73.33333333333333,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+382,3602.0,Faustino Marcos Alberto Rojo,faustino marcos alberto rojo,Marcos Rojo,marcos rojo,marcos rojo,61.0,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+383,6821.0,Jesús Navas González,jesus navas gonzalez,Jesús Navas,jesus navas,jesus navas,70.66666666666667,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+384,3538.0,Wayne Mark Rooney,wayne mark rooney,Wayne Rooney,wayne rooney,wayne rooney,85.16666666666667,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+385,3456.0,Kurt Happy Zouma,kurt happy zouma,Kurt Zouma,kurt zouma,kurt zouma,52.166666666666664,13.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+386,5602.0,Cristian Gamboa Luna,cristian gamboa luna,Cristian Gamboa,cristian gamboa,cristian gamboa,58.5,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+387,16890.0,John O''Shea,john o''shea,John O'Shea,john o'shea,john o'shea,35.333333333333336,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+388,3037.0,Mousa Sidi Yaya Dembélé,mousa sidi yaya dembele,Moussa Dembélé,moussa dembele,moussa dembele,73.0,15.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+389,3960.0,José Miguel da Rocha Fonte,jose miguel da rocha fonte,José Fonte,jose fonte,jose fonte,35.833333333333336,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+390,3445.0,Radamel Falcao García Zárate,radamel falcao garcia zarate,Falcao,falcao,falcao,82.0,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+391,3437.0,Francis Joseph Coquelin,francis joseph coquelin,Francis Coquelin,francis coquelin,francis coquelin,55.666666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+392,42699.0,Gabriel Imuetinyan Agbonlahor,gabriel imuetinyan agbonlahor,Gabriel Agbonlahor,gabriel agbonlahor,gabriel agbonlahor,70.66666666666667,8.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+393,4416.0,Max-Alain Gradel,max alain gradel,Max Gradel,max gradel,max gradel,73.0,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+394,6870.0,José Manuel Jurado Marín,jose manuel jurado marin,Jurado,jurado,jurado,75.5,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+395,3044.0,Chancel Mbemba Mangulu,chancel mbemba mangulu,Chancel Mbemba,chancel mbemba,chancel mbemba,50.333333333333336,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+396,23663.0,Dieumerci Mbokani Bezua,dieumerci mbokani bezua,Dieumerci Mbokani,dieumerci mbokani,dieumerci mbokani,75.0,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+397,31296.0,Sébastien Aymar Bassong Nguena,sebastien aymar bassong nguena,Sébastien Bassong,sebastien bassong,sebastien bassong,37.5,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+398,3666.0,Robert Kenedy Nunes do Nascimento,robert kenedy nunes do nascimento,Kenedy,kenedy,kenedy,65.83333333333333,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+399,11012.0,Jonathan Grant Evans,jonathan grant evans,Jonny Evans,jonny evans,jonny evans,35.5,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+400,6800.0,Carles Gil de Pareja Vicent,carles gil de pareja vicent,Carles Gil,carles gil,carles gil,68.0,10.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+401,30702.0,Brendan Joel Zibusiso Galloway,brendan joel zibusiso galloway,Brendan Galloway,brendan galloway,brendan galloway,38.5,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+402,3726.0,Gerard Deulofeu Lázaro,gerard deulofeu lazaro,Deulofeu,deulofeu,deulofeu,67.66666666666667,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+403,3265.0,José Luis Sanmartín Mato,jose luis sanmartin mato,Joselu,joselu,joselu,73.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+404,3534.0,Clinton Mua N''Jie,clinton mua n''jie,Clinton N'Jié,clinton n'jie,clinton n'jie,66.66666666666667,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+405,7063.0,Jefferson Antonio Montero Vite,jefferson antonio montero vite,Jefferson Montero,jefferson montero,jefferson montero,69.83333333333333,12.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+406,16003.0,Fernando Francisco Reges,fernando francisco reges,Fernando,fernando,fernando,58.666666666666664,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+407,3064.0,David Josué Jiménez Silva,david josue jimenez silva,David Silva,david silva,david silva,77.0,1.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+408,3708.0,Kelechi Promise Iheanacho,kelechi promise iheanacho,Kelechi Iheanacho,kelechi iheanacho,kelechi iheanacho,71.33333333333333,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+409,3665.0,Andrew Philip King,andrew philip king,Andy King,andy king,andy king,70.33333333333333,7.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+410,7780.0,Lucas Pezzini Leiva,lucas pezzini leiva,Lucas Leiva,lucas leiva,lucas leiva,47.666666666666664,7.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+411,3329.0,Cédric Ricardo Alves Soares,cedric ricardo alves soares,Cédric,cedric,cedric,69.66666666666667,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+412,42899.0,Gabriel Antoine Obertan,gabriel antoine obertan,Gabriel Obertan,gabriel obertan,gabriel obertan,62.833333333333336,10.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+413,11333.0,Adama Traoré Diarra,adama traore diarra,Adama,adama,adama,57.333333333333336,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+414,6695.0,Juan Miguel Jiménez López,juan miguel jimenez lopez,Juanmi,juanmi,juanmi,67.16666666666667,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+415,27053.0,Alexandre Dimitri Song-Billong,alexandre dimitri song billong,Alexandre SongL,alexandre songl,alexandre songl,57.5,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+416,3267.0,Luis Antonio Valencia Mosquera,luis antonio valencia mosquera,Antonio Valencia,antonio valencia,antonio valencia,65.83333333333333,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+417,40130.0,Victor Chinedu Anichebe,victor chinedu anichebe,Victor Anichebe,victor anichebe,victor anichebe,71.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+418,7884.0,Marcin Ryszard Wasilewski,marcin ryszard wasilewski,Marcin Wasilewski,marcin wasilewski,marcin wasilewski,56.333333333333336,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+419,3052.0,Pablo Javier Zabaleta Girod,pablo javier zabaleta girod,Pablo Zabaleta,pablo zabaleta,pablo zabaleta,60.0,9.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+420,19288.0,Martín Gastón Demichelis,martin gaston demichelis,Martín Demichelis,martin demichelis,martin demichelis,38.833333333333336,7.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+421,7010.0,Gastón Exequiel Ramírez Pereyra,gaston exequiel ramirez pereyra,Gastón Ramírez,gaston ramirez,gaston ramirez,75.16666666666667,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+422,3897.0,Pedro Mba Obiang Avomo,pedro mba obiang avomo,Pedro Obiang,pedro obiang,pedro obiang,61.166666666666664,7.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+423,13573.0,Yann Kermorgant,yann kermorgant,Wes Morgan,wes morgan,wes morgan,30.833333333333332,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+424,3288.0,Miguel Ángel Britos Cabrera,miguel angel britos cabrera,Miguel Angel Britos,miguel angel britos,miguel angel britos,32.5,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+425,3973.0,Àngel Rangel Zaragoza,angel rangel zaragoza,Àngel Rangel,angel rangel,angel rangel,58.0,10.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+426,3957.0,César Azpilicueta Tanco,cesar azpilicueta tanco,Azpilicueta,azpilicueta,azpilicueta,59.666666666666664,8.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+427,5475.0,John Michael Nchekwube Obinna,john michael nchekwube obinna,John Obi Mikel,john obi mikel,john obi mikel,54.5,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+428,3590.0,Rhu-endly Martina,rhu endly martina,Cuco Martina,cuco martina,cuco martina,53.0,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+429,16932.0,Youssouf Chafiq Mulumbu Ngangu,youssouf chafiq mulumbu ngangu,Youssouf Mulumbu,youssouf mulumbu,youssouf mulumbu,58.833333333333336,13.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+430,9958.0,Steven Caulker,steven caulker,Steven CaulkerL,steven caulkerl,steven caulkerl,31.5,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+431,7121.0,Sandro Ranieri Guimarães Cordeiro,sandro ranieri guimaraes cordeiro,SandroL,sandrol,sandrol,66.83333333333333,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+432,4045.0,Leroy Fer,leroy fer,Leroy FerL,leroy ferl,leroy ferl,74.16666666666667,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+433,3569.0,Daniel Nii Tackie Mensah Welbeck,daniel nii tackie mensah welbeck,Danny Welbeck,danny welbeck,danny welbeck,75.66666666666667,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+434,6560.0,Marc Muniesa Martínez,marc muniesa martinez,Marc Muniesa,marc muniesa,marc muniesa,44.666666666666664,12.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+435,4346.0,Gilbert Gianelli Imbula Wanga,gilbert gianelli imbula wanga,Giannelli Imbula,giannelli imbula,giannelli imbula,56.5,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+436,11992.0,Kevin Linford Stewart,kevin linford stewart,Kevin Stewart,kevin stewart,kevin stewart,38.166666666666664,10.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+437,17276.0,Seydou Doumbia,seydou doumbia,Seydou DoumbiaL,seydou doumbial,seydou doumbial,78.33333333333333,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+438,6652.0,Jordi Amat Maas,jordi amat maas,Jordi Amat,jordi amat,jordi amat,43.333333333333336,9.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+439,27949.0,Juan Manuel Iturbe Arévalo,juan manuel iturbe arevalo,Juan Manuel Iturbe,juan manuel iturbe,juan manuel iturbe,69.16666666666667,8.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+440,42901.0,Osazemwinde Peter Odemwingie,osazemwinde peter odemwingie,Peter Odemwingie,peter odemwingie,peter odemwingie,74.0,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+441,25351.0,Alexandre Rodrigues da Silva,alexandre rodrigues da silva,Alexandre Pato,alexandre pato,alexandre pato,77.83333333333333,11.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+442,3465.0,Timothy Evans Fosu-Mensah,timothy evans fosu mensah,Timothy Fosu-Mensah,timothy fosu mensah,timothy fosu mensah,50.5,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+443,128704.0,Emmanuel Emenike,emmanuel emenike,Emmanuel EmenikeL,emmanuel emenikel,emmanuel emenikel,73.66666666666667,12.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+444,22058.0,Connor Steven Randall,connor steven randall,Connor Randall,connor randall,connor randall,52.666666666666664,9.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+445,3440.0,Tammy Bakumo-Abraham,tammy bakumo abraham,Tammy Abraham,tammy abraham,tammy abraham,62.833333333333336,11.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+446,13448.0,Bradley Shaun Smith,bradley shaun smith,Brad Smith,brad smith,brad smith,42.166666666666664,11.75,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+447,42900.0,Cheik Ismaël Tioté,cheik ismael tiote,Cheick Tioté,cheick tiote,cheick tiote,59.5,7.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+448,45014.0,Tokelo Anthony Rantie,tokelo anthony rantie,Tokelo Rantie,tokelo rantie,tokelo rantie,61.333333333333336,12.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+449,4097.0,Matt Grimes,matt grimes,Matthew Grimes,matthew grimes,matthew grimes,55.833333333333336,13.25,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+450,42946.0,Guangtai Jiang,guangtai jiang,Tyias Browning,tyias browning,tyias browning,37.5,11.0,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
+451,28559.0,Enner Remberto Valencia Lastra,enner remberto valencia lastra,Enner Valencia,enner valencia,enner valencia,72.66666666666667,9.5,yarknyorulmaz/fifa-index-player-ratings-dataset-epl-v16-v24,manual,100
