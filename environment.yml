@@ -1,0 +1,15 @@
+name: xg_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - xgboost
+  - catboost
+  - tabpfn-client
+prefix: /Users/nanakwamekankam/miniconda3/envs/xg_env
