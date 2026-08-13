@@ -23,6 +23,12 @@ catboost_info/
 # Logs
 *.log
 
+# Scrapper files
+files/*
 
-# Data
-Notebooks/statsbomb_events.csv
+# all datasets for now
+# datasets/*
+
+# large datasets
+datasets/statsbomb_events.csv
+chaff/*
