@@ -31,4 +31,5 @@ files/*
 
 # large datasets
 datasets/statsbomb_events.csv
+datasets/final_player_stats.csv
 chaff/*
