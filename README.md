@@ -110,7 +110,9 @@ Output:
 ```
 data/raw/
 ```
-
+*** Chose to use the EPL league for baseline as the EPL has statistically the wider range of skill level***
+*** This is to allow for the data to generalize, appropriately and not skew towards higher skilled players***
+*** However, there still is an over presentation of forward field positions than backfield positions so multi-caliberation might be needed in future work***
 ---
 
 ## Stage 2 — Data Preprocessing
@@ -130,10 +132,17 @@ Output:
 ```
 data/processed/
 ```
-
+*** Events distilled down to shots.***
+*** Came to ~9900 rows, might need more data***
 ---
 
 ## Stage 3 — Baseline xG Model
+
+The baseline features include:
+
+- Distance
+- Angle
+- Shot type
 
 Models evaluated include:
 
@@ -149,15 +158,32 @@ Evaluation metrics:
 - Brier Score
 - Calibration
 - Accuracy
-
 ---
 
-## Stage 4 — Player Ability Integration
+## Stage 5 - xG for shot context
+
+This model includes the features from baseline the baseline model and features giving shot context.
+These include:
+
+- Aerial
+- First time 
+- Pressure
+- Open goal
+- Follows dribble
+- Body part
+- Shot technique
+---
+
+## Stage 4 — Player Ability Integration(In progress...)
+
+Following the shot context, it makes sense to investigate the player's scoring ability.
 
 The work in this stage focuses on integrating external player ratings from SoFIFA.
 Two models are developed:
-    Model B investigates the effect of a player's scoring ability(in context) in predicting xG.
-    Model C expands on model B for the extended context of the ability of the body part used.
+    - Model C investigates the effect of a player's scoring ability(without context) in predicting xG. This means the baseline model with the player's ability.
+    - Model C(b) investigates the effect of a player's scoring ability(with context) in predicting xG. Incorporating shot technique features along side player's scoring ability.
+    Model D investigates the player's ability based on the body part used. This incorporates the player's body part used in conjunction with their ability using that body part
+    
 
 Features include:
 
@@ -166,13 +192,13 @@ Features include:
 - Long Shots
 - Positioning
 - Penalties
+- Heading
 - Preferred Foot
 
 Custom scraping tools are being developed to automatically collect ratings across FIFA versions.
-
 ---
 
-## Stage 5 — Goalkeeper saving Ability(In progress...)
+## Stage 5 — Goalkeeper saving Ability
 
 In this stage, we will look at the level of opposition(goalkeeper and team defense) that the goals were scored against. 
 We want to find xG by the player's scoring abaility vs the opposition's defensive ability.
@@ -189,10 +215,8 @@ Team defense include:
 - Avarage defensive rating of each player
 - Team defensive rating
 
-Model D will try to improve xG by simply adding the goalkeeper scoring rating and then improved by incorporating
+Model E will try to improve xG by simply adding the goalkeeper scoring rating and then improved by incorporating
 player vs goalkeeper elo rating
-
-Model E will extend this to player vs team defense elo rating
 
 ---
 
@@ -259,7 +283,8 @@ Execute the notebooks in order:
 1. Event Data Collection
 2. Data Preprocessing
 3. Baseline Modeling
-4. Player and Goalkeeper Ability
+4. Shot Context Analysis
+5. Player and Goalkeeper Ability
 
 The first notebook automatically downloads and prepares the required event data.
 
@@ -269,24 +294,29 @@ The first notebook automatically downloads and prepares the required event data.
 
 ✅ Event data collection
 
-✅ Feature engineering
+✅ Baseline feature selection
 
-✅ Baseline xG model
+✅ Model A: Baseline xG model
 
-✅ Model evaluation
+✅ Model B: xG_shot_context
 
-✅ SoFIFA player rating integration
+🚧 Feature engineering: SoFIFA player rating, preferred foot integration
 
-🚧 Goalkeeper ability features
+🚧 Model C: xG_player_abilty
 
-🚧 Elo rating features
+🚧 Model D: xG_player_body_part
+
+🚧 Model E: xG_goalkeeper_ability
+
+🚧 Model F: xG_player_vs_goalkeeper(Elo rating)
 
 ---
 
-# Future Work
+# Extensions and Future Work
 
+- Team defense(Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
 - Hyperparameter optimization
-- Comouter Vision
+- Computer Vision(basic computer vision model, establishing number(and quality) of paths to goal from where shot is taken)
 
 ---
 
@@ -295,3 +325,5 @@ The first notebook automatically downloads and prepares the required event data.
 This project is intended for research and educational purposes.
 
 StatsBomb Open Data is provided under its own license.
+
+If you run this notebook, please send me an email at nanakwameboakyekankam@gmail.com with any additions, criticisms, ideas, suggestions and findings(amongst others)

@@ -30,6 +30,11 @@ files/*
 # datasets/*
 
 # large datasets
+datasets/raw
+datasets/*.csv
 datasets/statsbomb_events.csv
 datasets/final_player_stats.csv
-chaff/*
+datasets/Big5_unmatched_sb_players.csv
+
+
+chaff/*.csv
