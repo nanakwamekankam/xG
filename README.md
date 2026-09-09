@@ -110,9 +110,7 @@ Output:
 ```
 data/raw/
 ```
-*** Chose to use the EPL league for baseline as the EPL has statistically the wider range of skill level***
-*** This is to allow for the data to generalize, appropriately and not skew towards higher skilled players***
-*** However, there still is an over presentation of forward field positions than backfield positions so multi-caliberation might be needed in future work***
+
 ---
 
 ## Stage 2 — Data Preprocessing
