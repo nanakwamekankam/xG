@@ -298,21 +298,17 @@ The first notebook automatically downloads and prepares the required event data.
 
 ✅ Model B: xG_shot_context
 
-🚧 Feature engineering: SoFIFA player rating, preferred foot integration
+✅ Feature engineering: SoFIFA player rating, preferred foot integration
 
-🚧 Model C: xG_player_abilty
+✅ Model C: xG_player_abilty
 
-🚧 Model D: xG_player_body_part
-
-🚧 Model E: xG_goalkeeper_ability
-
-🚧 Model F: xG_player_vs_goalkeeper(Elo rating)
+✅ Model D: xG_player_ability_with_shot_context
 
 ---
 
 # Extensions and Future Work
 
-- Team defense(Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
+- Team defense(Goalkeeper ability, Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
 - Hyperparameter optimization
 - Computer Vision(basic computer vision model, establishing number(and quality) of paths to goal from where shot is taken)
 
@@ -325,3 +321,9 @@ This project is intended for research and educational purposes.
 StatsBomb Open Data is provided under its own license.
 
 If you run this notebook, please send me an email at nanakwameboakyekankam@gmail.com with any additions, criticisms, ideas, suggestions and findings(amongst others)
+
+---
+
+# Notes
+Convidence or uncertainty intervals
+Simplify features
