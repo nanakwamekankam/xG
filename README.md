@@ -74,7 +74,7 @@ Instead, the first notebook automatically downloads and prepares the dataset.
 ```text
 xG/
 │
-├── data/
+├── datasets/
 │   ├── raw/
 │   └── processed/
 │
@@ -88,8 +88,18 @@ xG/
 ├── src/
 │
 ├── models/
+│   ├── Baseline Models
+│   ├── xG_B: Baseline xG with shot context
+│   ├── xG_C: Baseline xG with player scoring
+│   ├── xG_D: Basleine xG with shot context and player scoring
+│   
+├── results/
+│   ├── Baseline Models
+│   ├── xG_B
+│   ├── ...
 │
 ├── requirements.txt
+├── environment.yml
 ├── README.md
 └── .gitignore
 ```
@@ -130,8 +140,7 @@ Output:
 ```
 data/processed/
 ```
-*** Events distilled down to shots.***
-*** Came to ~9900 rows, might need more data***
+*** Events distilled down to shots, which comes to ~36,000 rows***
 ---
 
 ## Stage 3 — Baseline xG Model
@@ -147,23 +156,24 @@ Models evaluated include:
 - Logistic Regression
 - Random Forest
 - CatBoost
-- XGBoost (planned)
+- XGBoost
+- TabPFN
 
 Evaluation metrics:
 
 - Log Loss
 - ROC-AUC
 - Brier Score
-- Calibration
+- Calibration Curve
 - Accuracy
 ---
 
 ## Stage 5 - xG for shot context
 
-This model includes the features from baseline the baseline model and features giving shot context.
+This model includes the features from the baseline model and features giving shot context.
 These include:
 
-- Aerial
+- Aerial contest
 - First time 
 - Pressure
 - Open goal
@@ -172,53 +182,49 @@ These include:
 - Shot technique
 ---
 
-## Stage 4 — Player Ability Integration(In progress...)
+## Stage 4 — Player Ability Integration
 
 Following the shot context, it makes sense to investigate the player's scoring ability.
 
 The work in this stage focuses on integrating external player ratings from SoFIFA.
 Two models are developed:
     - Model C investigates the effect of a player's scoring ability(without context) in predicting xG. This means the baseline model with the player's ability.
-    - Model C(b) investigates the effect of a player's scoring ability(with context) in predicting xG. Incorporating shot technique features along side player's scoring ability.
-    Model D investigates the player's ability based on the body part used. This incorporates the player's body part used in conjunction with their ability using that body part
+    - Model D investigates the effect of a player's scoring ability(with context) in predicting xG. Incorporating shot technique features along side player's scoring ability.
     
-
-Features include:
+Scoring features include:
 
 - Finishing
 - Shot Power
 - Long Shots
 - Positioning
 - Penalties
-- Heading
-- Preferred Foot
-
-Custom scraping tools are being developed to automatically collect ratings across FIFA versions.
----
-
-## Stage 5 — Goalkeeper saving Ability
-
-In this stage, we will look at the level of opposition(goalkeeper and team defense) that the goals were scored against. 
-We want to find xG by the player's scoring abaility vs the opposition's defensive ability.
-
-Goalkeeper features include:
-
-- Diving
-- Reflexes
-- Handling
-- Positioning
-
-Team defense include:
-- Number of defenders in line up(based on formation)
-- Avarage defensive rating of each player
-- Team defensive rating
-
-Model E will try to improve xG by simply adding the goalkeeper scoring rating and then improved by incorporating
-player vs goalkeeper elo rating
+- Volleys
 
 ---
+## Stage 5 - Model Comparison and Uncertainty Analysis(In Progress...)
 
-# Technologies Used
+Bootstrap held-out test predictions. Then bootstrap the same test-shot indices and calculate:
+- Log Loss — primary
+- Brier Score — primary
+- ROC-AUC — useful secondary metric
+
+Here, accuracy isn't particularly useful for xG because goals are highly imbalanced and xG is fundamentally a probability model.
+Then for every bootstrap sample, calculate both models on the same sampled shots. i.e. delta_logloss = logloss_D - logloss_B(negetive value shows D is better than B)
+
+| Comparison | Question                                                    | Importance                                   |
+| ---------- | ----------------------------------------------------------- | -------------------------------------------- |
+| A → B      | Does shot context improve geometric xG?                     | Supporting                                   |
+| B → C      | Does player scoring ability add information beyond context? | **Primary**                                  |
+| C → D      | Does your final player-ability formulation improve on C?    | **Primary/secondary depending on current D** |
+| A → D      | How much better is the complete model than baseline?        | Summary                                      |
+
+---
+## Project Summary
+
+Model A establishes geometric baseline → Model B establishes value of shot circumstances → Models C/D introduce player-specific scoring ability → paired bootstrap analysis tests whether that added ability produces a reliable improvement beyond context.
+---
+
+# Modules Used
 
 ### Data Collection
 
@@ -282,7 +288,8 @@ Execute the notebooks in order:
 2. Data Preprocessing
 3. Baseline Modeling
 4. Shot Context Analysis
-5. Player and Goalkeeper Ability
+5. Player Attributes
+6. Shot Context with Player scoring ability analysis
 
 The first notebook automatically downloads and prepares the required event data.
 
@@ -304,13 +311,44 @@ The first notebook automatically downloads and prepares the required event data.
 
 ✅ Model D: xG_player_ability_with_shot_context
 
+[ ] Model Comparison and Uncertainty Analysis (In progress...)
+
 ---
 
 # Extensions and Future Work
 
-- Team defense(Goalkeeper ability, Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
 - Hyperparameter optimization
-- Computer Vision(basic computer vision model, establishing number(and quality) of paths to goal from where shot is taken)
+- Team defense(Goalkeeper ability, Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
+
+## Stage 5 — Resitance Analysis
+
+In this stage, we will look at the level of opposition(goalkeeper and team defense) that the goals were scored against. 
+We want to find xG by the player's scoring abaility vs the opposition's defensive ability.
+
+Goalkeeper features include:
+
+- Diving
+- Reflexes
+- Handling
+- Positioning
+
+Team defense include:
+- Number of defenders in line up
+- Avarage defensive rating of each player
+- Team defensive rating
+
+Model E will try to improve xG by simply adding the goalkeeper scoring rating
+Then subsequent models will be developed incorporating other defensive statistics
+
+
+## Stage 6 - Computer Vision Analysis
+
+ In this stage, we will use photographic data to predict xG. 
+ I would be particularly interested in building:
+- A basic computer vision model,
+- A methodology to:
+                    1. find number of paths to goal from where shot is taken
+                    2. The quality of the paths(i.e interference on the path)
 
 ---
 
@@ -321,9 +359,3 @@ This project is intended for research and educational purposes.
 StatsBomb Open Data is provided under its own license.
 
 If you run this notebook, please send me an email at nanakwameboakyekankam@gmail.com with any additions, criticisms, ideas, suggestions and findings(amongst others)
-
----
-
-# Notes
-Convidence or uncertainty intervals
-Simplify features
