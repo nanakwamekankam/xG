@@ -168,7 +168,7 @@ Evaluation metrics:
 - Accuracy
 ---
 
-## Stage 5 - xG for shot context
+## Stage 4 - xG for shot context
 
 This model includes the features from the baseline model and features giving shot context.
 These include:
@@ -182,7 +182,7 @@ These include:
 - Shot technique
 ---
 
-## Stage 4 — Player Ability Integration
+## Stage 5 — Player Ability Integration
 
 Following the shot context, it makes sense to investigate the player's scoring ability.
 
@@ -201,7 +201,7 @@ Scoring features include:
 - Volleys
 
 ---
-## Stage 5 - Model Comparison and Uncertainty Analysis(In Progress...)
+## Stage 6 - Model Comparison and Uncertainty Analysis(In Progress...)
 
 Bootstrap held-out test predictions. Then bootstrap the same test-shot indices and calculate:
 - Log Loss — primary
@@ -320,7 +320,7 @@ The first notebook automatically downloads and prepares the required event data.
 - Hyperparameter optimization
 - Team defense(Goalkeeper ability, Overall team defensive rating, closest 3 players to ball's defensive rating(including goalkeeper), average distance from defenders to player scoring)
 
-## Stage 5 — Resitance Analysis
+## Stage 7 — Resitance Analysis
 
 In this stage, we will look at the level of opposition(goalkeeper and team defense) that the goals were scored against. 
 We want to find xG by the player's scoring abaility vs the opposition's defensive ability.
@@ -341,7 +341,7 @@ Model E will try to improve xG by simply adding the goalkeeper scoring rating
 Then subsequent models will be developed incorporating other defensive statistics
 
 
-## Stage 6 - Computer Vision Analysis
+## Stage 8 - Computer Vision Analysis
 
  In this stage, we will use photographic data to predict xG. 
  I would be particularly interested in building:
