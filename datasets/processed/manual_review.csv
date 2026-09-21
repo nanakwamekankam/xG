@@ -1,183 +1,183 @@
-player_id,statsbomb_name,statsbomb_name_norm,sofifa_id,short_name,long_name,player_positions,club_name,shooting,attacking_heading_accuracy,preferred_foot,weak_foot
-3009.0,{'Kylian Mbappé Lottin'},kylian mbappe lottin,,,,,,,,,
-3020.0,{'Rodrigue Casimir Ninga'},rodrigue casimir ninga,,,,,,,,,
-3025.0,{'Christopher Nkunku'},christopher nkunku,,,,,,,,,
-3053.0,{'Leroy Sané'},leroy sane,,,,,,,,,
-3083.0,{'Heung-Min Son'},heung min son,,,,,,,,,
-3109.0,{'Malcom Filipe Silva de Oliveira'},malcom filipe silva de oliveira,,,,,,,,,
-3141.0,{'André-Frank Zambo Anguissa'},andre frank zambo anguissa,,,,,,,,,
-3162.0,{'Gnaly Maxwell Cornet'},gnaly maxwell cornet,,,,,,,,,
-3186.0,{'Julian Draxler'},julian draxler,,,,,,,,,
-3191.0,{'Ramy Bensebaini'},ramy bensebaini,,,,,,,,,
-3217.0,{'Jemerson de Jesus Nascimento'},jemerson de jesus nascimento,,,,,,,,,
-3218.0,{'Marcos Paulo Mesquita Lopes'},marcos paulo mesquita lopes,,,,,,,,,
-3235.0,{'Ludovic Blas'},ludovic blas,,,,,,,,,
-3236.0,{'Sergi Darder Moll'},sergi darder moll,,,,,,,,,
-3302.0,{'Nordin Amrabat'},nordin amrabat,,,,,,,,,
-3318.0,{'Marcus Rashford'},marcus rashford,,,,,,,,,
-3349.0,{'Michail Antonio'},michail antonio,,,,,,,,,
-3440.0,{'Tammy Bakumo-Abraham'},tammy bakumo abraham,,,,,,,,,
-3462.0,{'Jack Frank Porteous Cork'},jack frank porteous cork,,,,,,,,,
-3465.0,{'Timothy Evans Fosu-Mensah'},timothy evans fosu mensah,,,,,,,,,
-3626.0,{'Ben Watson'},ben watson,,,,,,,,,
-3636.0,{'Charlie Adam'},charlie adam,,,,,,,,,
-3652.0,{'Tom Davies'},tom davies,,,,,,,,,
-3656.0,{'Alex Pritchard'},alex pritchard,,,,,,,,,
-3662.0,{'Danny Drinkwater'},danny drinkwater,,,,,,,,,
-3673.0,{'Yassine Benzia'},yassine benzia,,,,,,,,,
-3712.0,{'Pierre-Emerick Aubameyang'},pierre emerick aubameyang,,,,,,,,,
-3774.0,{'Papiss Mison Djilobodji'},papiss mison djilobodji,,,,,,,,,
-3953.0,{'Aaron Lennon'},aaron lennon,,,,,,,,,
-4129.0,{'Tyler Roberts'},tyler roberts,,,,,,,,,
-4273.0,{'Reece Oxford'},reece oxford,,,,,,,,,
-4349.0,{'Issa Diop'},issa diop,,,,,,,,,
-4355.0,{'Emerson Palmieri dos Santos'},emerson palmieri dos santos,,,,,,,,,
-4380.0,{'Guillaume Gillet'},guillaume gillet,,,,,,,,,
-4382.0,{'Kévin Malcuit'},kevin malcuit,,,,,,,,,
-4390.0,{'Charles Traoré'},charles traore,,,,,,,,,
-4406.0,{'Aymen Abdennour'},aymen abdennour,,,,,,,,,
-4413.0,{'Aloïs Confais'},alois confais,,,,,,,,,
-4463.0,{'Mapou Yanga-Mbiwa'},mapou yanga mbiwa,,,,,,,,,
-4473.0,{'Nicolas Janvier'},nicolas janvier,,,,,,,,,
-4539.0,{'Michaël Jordan Nkololo'},michael jordan nkololo,,,,,,,,,
-4542.0,{'Pablo Nascimento Castro'},pablo nascimento castro,,,,,,,,,
-4602.0,{'Yoann Gourcuff'},yoann gourcuff,,,,,,,,,
-4723.0,{'Mickaël Le Bihan'},mickael le bihan,,,,,,,,,
-4804.0,{'Bradley Johnson'},bradley johnson,,,,,,,,,
-4828.0,{'Adlène Guédioura'},adlene guedioura,,,,,,,,,
-4909.0,{'Jeremie Boga'},jeremie boga,,,,,,,,,
-5242.0,{'Younès Belhanda'},younes belhanda,,,,,,,,,
-5475.0,{'John Michael Nchekwube Obinna'},john michael nchekwube obinna,,,,,,,,,
-5477.0,{'Ousmane Dembélé'},ousmane dembele,,,,,,,,,
-5602.0,{'Cristian Gamboa Luna'},cristian gamboa luna,,,,,,,,,
-5660.0,{'Piotr Zieliński'},piotr zielinski,,,,,,,,,
-5679.0,{'Yūya Ōsako'},yuya osako,,,,,,,,,
-5684.0,{'Shinji Kagawa'},shinji kagawa,,,,,,,,,
-5687.0,{'Takashi Inui'},takashi inui,,,,,,,,,
-5836.0,{'Bryan Oviedo'},bryan oviedo,,,,,,,,,
-6352.0,{'Ricardo Domingos Barbosa Pereira'},ricardo domingos barbosa pereira,,,,,,,,,
-6391.0,{'Raúl García Escudero'},raul garcia escudero,,,,,,,,,
-6609.0,{'Denis Suárez Fernández'},denis suarez fernandez,,,,,,,,,
-6651.0,{'Joaquín Sánchez Rodríguez'},joaquin sanchez rodriguez,,,,,,,,,
-6700.0,{'Sergio Enrich Ametller'},sergio enrich ametller,,,,,,,,,
-6749.0,{'Diego González Polanco'},diego gonzalez polanco,,,,,,,,,
-6765.0,{'Rodrigo Hernández Cascante'},rodrigo hernandez cascante,,,,,,,,,
-6827.0,{'Daniele Bonera'},daniele bonera,,,,,,,,,
-6844.0,{'Federico Ricca Rostagnol'},federico ricca rostagnol,,,,,,,,,
-6847.0,{'Adalberto Peñaranda Maestre'},adalberto penaranda maestre,,,,,,,,,
-6863.0,{'Mauro Wilney Arambarri Rosa'},mauro wilney arambarri rosa,,,,,,,,,
-6867.0,{'Papa Kouly Diop'},papa kouly diop,,,,,,,,,
-6906.0,{'Jon Bautista Orgilles'},jon bautista orgilles,,,,,,,,,
-6928.0,{'Pedro Taunausú Domínguez Placeres'},pedro taunausu dominguez placeres,,,,,,,,,
-6938.0,{'Felipe Dias da Silva dal Belo'},felipe dias da silva dal belo,,,,,,,,,
-6983.0,{'Remo Freuler'},remo freuler,,,,,,,,,
-7121.0,{'Sandro Ranieri Guimarães Cordeiro'},sandro ranieri guimaraes cordeiro,,,,,,,,,
-7164.0,{'Ibrahima Mbaye'},ibrahima mbaye,,,,,,,,,
-7171.0,{'Fabio Borini'},fabio borini,,,,,,,,,
-7211.0,{'Zargo Touré'},zargo toure,,,,,,,,,
-7303.0,{'Lenny Nangis'},lenny nangis,,,,,,,,,
-7322.0,{'Romain Del Castillo'},romain del castillo,,,,,,,,,
-7323.0,{'Olivier Boscagli'},olivier boscagli,,,,,,,,,
-7369.0,{'Aly Ndom'},aly ndom,,,,,,,,,
-7406.0,{'Julien Bègue'},julien begue,,,,,,,,,
-7438.0,{'Hassane Kamara'},hassane kamara,,,,,,,,,
-7525.0,{'Gaëtan Perrin'},gaetan perrin,,,,,,,,,
-7595.0,{'Dorian Caddy'},dorian caddy,,,,,,,,,
-7794.0,{'Samir Caetano de Souza Santos'},samir caetano de souza santos,,,,,,,,,
-8187.0,{'Marcel Büchel'},marcel buchel,,,,,,,,,
-8217.0,{'Kingsley Coman'},kingsley coman,,,,,,,,,
-8291.0,{'Arlind Afrim Ajeti'},arlind afrim ajeti,,,,,,,,,
-8308.0,{'Aaron Hunt'},aaron hunt,,,,,,,,,
-8463.0,{'Urby Emanuelson'},urby emanuelson,,,,,,,,,
-8508.0,{'Max Meyer'},max meyer,,,,,,,,,
-8523.0,{'Yevhen Konoplyanka'},yevhen konoplyanka,,,,,,,,,
-8558.0,{'Charlison Benschop'},charlison benschop,,,,,,,,,
-8571.0,{'Vedad Ibišević'},vedad ibisevic,,,,,,,,,
-8871.0,{'Marco Borriello'},marco borriello,,,,,,,,,
-8981.0,{'Antoine Rabillard'},antoine rabillard,,,,,,,,,
-9070.0,{'Hiram Boateng'},hiram boateng,,,,,,,,,
-9536.0,{'Modou Barrow'},modou barrow,,,,,,,,,
-9630.0,{'Andre Green'},andre green,,,,,,,,,
-9648.0,{'Paddy McNair'},paddy mcnair,,,,,,,,,
-10330.0,{'Gadji Celi Carmen Junior Tallo'},gadji celi carmen junior tallo,,,,,,,,,
-10448.0,{'Adam Ounas'},adam ounas,,,,,,,,,
-10461.0,{'Alexis Alégué Elandi'},alexis alegue elandi,,,,,,,,,
-10476.0,{'Timothée Kolodziejczak'},timothee kolodziejczak,,,,,,,,,
-10522.0,{'Mehdi Mostefa Sbaa'},mehdi mostefa sbaa,,,,,,,,,
-10779.0,{'Cameron Borthwick-Jackson'},cameron borthwick jackson,,,,,,,,,
-10790.0,{'Adelino André Vieira Freitas'},adelino andre vieira freitas,,,,,,,,,
-10919.0,{'Juraj Kucka'},juraj kucka,,,,,,,,,
-10931.0,{'Joe Allen'},joe allen,,,,,,,,,
-10936.0,{'Lorik Agim Cana'},lorik agim cana,,,,,,,,,
-10966.0,{'Wes Hoolahan'},wes hoolahan,,,,,,,,,
-10967.0,{'Robert Brady'},robert brady,,,,,,,,,
-11128.0,{'Umar Sadiq Mesbah'},umar sadiq mesbah,,,,,,,,,
-11132.0,{'Claudio Miguel Pizarro Bossio'},claudio miguel pizarro bossio,,,,,,,,,
-11286.0,{'Dominik Maroh'},dominik maroh,,,,,,,,,
-11508.0,{'Łukasz Skorupski'},ukasz skorupski,,,,,,,,,
-11542.0,{'Javier Guerra Rodríguez'},javier guerra rodriguez,,,,,,,,,
-13448.0,{'Bradley Shaun Smith'},bradley shaun smith,,,,,,,,,
-13846.0,{'Jan Kirchhoff'},jan kirchhoff,,,,,,,,,
-16014.0,{'Jean Pierre Nsamé'},jean pierre nsame,,,,,,,,,
-16027.0,{'Kevin Mbabu'},kevin mbabu,,,,,,,,,
-16061.0,{'Uroš Ćosić'},uros cosic,,,,,,,,,
-16271.0,{'Florian Raspentino'},florian raspentino,,,,,,,,,
-16426.0,{'Wanderson Maciel Sousa Campos'},wanderson maciel sousa campos,,,,,,,,,
-16502.0,{'László Kleinheisler'},laszlo kleinheisler,,,,,,,,,
-18921.0,{'Joris Gnagnon'},joris gnagnon,,,,,,,,,
-18953.0,{'Vágner Silva de Souza'},vagner silva de souza,,,,,,,,,
-19688.0,{'Jason Puncheon'},jason puncheon,,,,,,,,,
-19813.0,{'Rolando Jorge Pires da Fonseca'},rolando jorge pires da fonseca,,,,,,,,,
-20039.0,{'Anthony Martial'},anthony martial,,,,,,,,,
-20063.0,{'Javier Ontiveros Parra'},javier ontiveros parra,,,,,,,,,
-20066.0,{'Darren Randolph'},darren randolph,,,,,,,,,
-20285.0,{'Joleon Lescott'},joleon lescott,,,,,,,,,
-20521.0,{'Bafétimbi Gomis'},bafetimbi gomis,,,,,,,,,
-20543.0,{'Nikica Jelavić'},nikica jelavic,,,,,,,,,
-20950.0,{'Yanni Regäsel'},yanni regasel,,,,,,,,,
-20951.0,{'Jordan Lyden'},jordan lyden,,,,,,,,,
-22058.0,{'Connor Steven Randall'},connor steven randall,,,,,,,,,
-23203.0,{'Stopilla Sunzu'},stopilla sunzu,,,,,,,,,
-23241.0,{'William Vainqueur'},william vainqueur,,,,,,,,,
-23663.0,{'Dieumerci Mbokani Bezua'},dieumerci mbokani bezua,,,,,,,,,
-23994.0,{'Alejandro Menéndez Díez'},alejandro menendez diez,,,,,,,,,
-24453.0,{'Josip Radošević'},josip radosevic,,,,,,,,,
-24646.0,{'Rafidine Abdullah'},rafidine abdullah,,,,,,,,,
-24711.0,{'David Carmona Sierra'},david carmona sierra,,,,,,,,,
-24782.0,{'Jonhatan Montiel Caballero'},jonhatan montiel caballero,,,,,,,,,
-25152.0,{'Bruno Henrique Pinto'},bruno henrique pinto,,,,,,,,,
-25345.0,{'Anderson Hernanes de Carvalho Andrade'},anderson hernanes de carvalho andrade,,,,,,,,,
-25351.0,{'Alexandre Rodrigues da Silva'},alexandre rodrigues da silva,,,,,,,,,
-25430.0,{'Felipe Melo de Carvalho'},felipe melo de carvalho,,,,,,,,,
-25997.0,{'Jonás Manuel Gutiérrez'},jonas manuel gutierrez,,,,,,,,,
-26211.0,{'Joan Verdú Fernández'},joan verdu fernandez,,,,,,,,,
-26248.0,{'David Barral Torres'},david barral torres,,,,,,,,,
-26699.0,{'Emmanuel Adebayor'},emmanuel adebayor,,,,,,,,,
-26752.0,{'Mouhamadou Dabo'},mouhamadou dabo,,,,,,,,,
-27595.0,{'Carlos Mario Carbonero Mancilla'},carlos mario carbonero mancilla,,,,,,,,,
-27639.0,{'Artem Kravets'},artem kravets,,,,,,,,,
-29312.0,{'Pablo Estífer Armero'},pablo estifer armero,,,,,,,,,
-29875.0,{'Axel Ngando'},axel ngando,,,,,,,,,
-30847.0,{'Jiloan Hamad'},jiloan hamad,,,,,,,,,
-31268.0,{'Michel Morganella'},michel morganella,,,,,,,,,
-31625.0,{'Johan Martial'},johan martial,,,,,,,,,
-31911.0,{'Damjan Đoković'},damjan okovic,,,,,,,,,
-32722.0,{'Norbert Sándor Balogh'},norbert sandor balogh,,,,,,,,,
-34565.0,{'Anthony Mounier'},anthony mounier,,,,,,,,,
-37212.0,{'Leandro Damião da Silva dos Santos'},leandro damiao da silva dos santos,,,,,,,,,
-38389.0,{'Alberto Gilardino'},alberto gilardino,,,,,,,,,
-40367.0,{'Francesco Lodi'},francesco lodi,,,,,,,,,
-40473.0,{'Artoms Rudņevs'},artoms rudnevs,,,,,,,,,
-40822.0,"{""Daniel Arnaud N''Di\t""}",daniel arnaud n'di,,,,,,,,,
-45685.0,{'Sébastien Antoine Luc Salles Lamonge'},sebastien antoine luc salles lamonge,,,,,,,,,
-75899.0,{'Kevin Toner'},kevin toner,,,,,,,,,
-106683.0,{'Saïdi Ntibazonkiza'},saidi ntibazonkiza,,,,,,,,,
-128704.0,{'Emmanuel Emenike'},emmanuel emenike,,,,,,,,,
-386514.0,{'Luca Martinelli'},luca martinelli,,,,,,,,,
-386657.0,{'Giampiero Pinzi'},giampiero pinzi,,,,,,,,,
-387300.0,{'Cristian Zaccardo'},cristian zaccardo,,,,,,,,,
-387832.0,{'Filippo Porcari'},filippo porcari,,,,,,,,,
-398941.0,{'Vasyl Pryyma'},vasyl pryyma,,,,,,,,,
-401471.0,{'Henri Bienvenu Ntsama'},henri bienvenu ntsama,,,,,,,,,
-401603.0,{'Erin Jorge Gomes Pinheiro'},erin jorge gomes pinheiro,,,,,,,,,
-402967.0,{'Julien Romain'},julien romain,,,,,,,,,
+manual_review
+sofifa_id,statsbomb_id,statsbomb_name,statsbomb_name_norm,short_name,long_name,player_positions,club_name,shooting,attacking_heading_accuracy,preferred_foot,weak_foot
+231747,3009.0,{'Kylian Mbappé Lottin'},kylian mbappe lottin,K. Mbappe Lottin,Kylian Mbappé Lottin,LW,AS Monaco,60,41,Right,3
+231041,3020.0,{'Rodrigue Casimir Ninga'},rodrigue casimir ninga,C. Ninga,Rodrigue Casimir Ninga,"ST, RW",Montpellier Hérault SC,71,61,Right,3
+232411,3025.0,{'Christopher Nkunku'},christopher nkunku,C. Nkunku,Christopher Alan Nkunku,CM,Paris Saint-Germain,52,47,Right,3
+222492,3053.0,{'Leroy Sané'},leroy sane,L. Sané,Leroy Aziz Sané,"RM, LM, ST",FC Schalke 04,71,69,Left,3
+200104,3083.0,{'Heung-Min Son'},heung min son,H. Son,Heung-min Son,"LM, CAM, RM",Tottenham Hotspur,79,65,Right,5
+222737,3109.0,{'Malcom Filipe Silva de Oliveira'},malcom filipe silva de oliveira,Malcom,Malcom Filipe Silva de Oliveira,"RM, ST",FC Girondins de Bordeaux,61,57,Left,4
+227236,3141.0,{'André-Frank Zambo Anguissa'},andre frank zambo anguissa,A. Zambo Anguissa,André-Frank Zambo Anguissa,CM,Olympique de Marseille,48,65,Right,2
+215798,3162.0,{'Gnaly Maxwell Cornet'},gnaly maxwell cornet,M. Cornet,Gnaly Maxwel Cornet,"LW, RW, ST",Olympique Lyonnais,70,68,Left,4
+202166,3186.0,{'Julian Draxler'},julian draxler,J. Draxler,Julian Draxler,"CAM, LM, RM",VfL Wolfsburg,78,65,Right,5
+224196,3191.0,{'Ramy Bensebaini'},ramy bensebaini,R. Bensebaini,Ramy Bensebaini,"LB, CB, CDM",Montpellier Hérault SC,45,72,Left,3
+215792,3217.0,{'Jemerson de Jesus Nascimento'},jemerson de jesus nascimento,Jemerson,Jemerson de Jesus Nascimento,CB, AS Monaco,36,78,Right,2
+212692,3218.0,{'Marcos Paulo Mesquita Lopes'},marcos paulo mesquita lopes,Marcos Lopes,Marcos Paulo Mesquita Lopes,CAM,LOSC Lille,64,38,Left,3
+231102,3235.0,{'Ludovic Blas'},ludovic blas,L. Blas,Ludovic Blas,CDM,En Avant de Guingamp,56,50,Left,3
+202648,3236.0,{'Sergi Darder Moll'},sergi darder moll,Sergi Darder,Sergi Darder Moll,"CM, CDM",Olympique Lyonnais,58,39,Right,4
+183108,3302.0,{'Nordin Amrabat'},nordin amrabat,N. Amrabat,Noureddine Amrabat,"ST, LM, CAM",Watford,76,68,Right,2
+231677,3318.0,{'Marcus Rashford'},marcus rashford,M. Rashford,Marcus Rashford,ST,Manchester United,66,63,Right,3
+190717,3349.0,{'Michail Antonio'},michail antonio,M. Antonio,Michail Gregory Antonio,"RM, RB, LM",West Ham United,72,75,Right,4
+231352,3440.0,{'Tammy Bakumo-Abraham'},tammy bakumo abraham,T. Abraham,Kevin Oghenetega Tamaraebi Bakumo-Abraham, ST, Chelsea FC,63,73,Right,3
+169706,3462.0,{'Jack Frank Porteous Cork'},jack frank porteous cork,J. Cork,Jack Frank Porteous Cork,"CDM, CM",Swansea City,55,69,Right,4
+232270,3465.0,{'Timothy Evans Fosu-Mensah'},timothy evans fosu mensah,T. Fosu-Mensah,Timothy Evans Fosu-Mensah,"CDM, CB, RB",Manchester United,51,67,Right,4
+160292,3626.0,{'Ben Watson'},ben watson,B. Watson,Benjamin Watson,"CDM, CM",Watford,68,58,Right,3
+155976,3636.0,{'Charlie Adam'},charlie adam,C. Adam,Charles Graham Adam,"CM, CAM",Stoke City,79,69,Left,3
+230005,3652.0,{'Tom Davies'},tom davies,T. Davies,Thomas Davies,CM,Everton FC,41,50,Right,3
+205351,3656.0,{'Alex Pritchard'},alex pritchard,A. Pritchard,Alex David Pritchard,"CAM, CM, LM",West Bromwich Albion,65,44,Right,4
+186132,3662.0,{'Danny Drinkwater'},danny drinkwater,D. Drinkwater,Daniel Noel Drinkwater,CM,Leicester City,64,59,Right,4
+206436,3673.0,{'Yassine Benzia'},yassine benzia,Y. Benzia,Yassine Benzia,"ST, RW, LW",LOSC Lille,70,60,Right,4
+188567,3712.0,{'Pierre-Emerick Aubameyang'},pierre emerick aubameyang,P. Aubameyang,Pierre-Emerick Emiliano François Aubameyang,"ST, RM",Borussia Dortmund,83,77,Right,4
+197937,3774.0,{'Papiss Mison Djilobodji'},papiss mison djilobodji,P. Djilobodji,El Hadji Papy Mison Djilobodji,CB,Werder Bremen,44,74,Left,3
+152747,3953.0,{'Aaron Lennon'},aaron lennon,A. Lennon,Aaron Justin Lennon,RM,Everton FC,64,28,Right,3
+228815,4129.0,{'Tyler Roberts'},tyler roberts,T. Roberts,Tyler D'Whyte Roberts,ST,West Bromwich Albion,59,57,Right,3
+225908,4273.0,{'Reece Oxford'},reece oxford,R. Oxford,Reece Joel Oxford,"CB, CDM",West Ham United,38,64,Right,3
+231633,4349.0,{'Issa Diop'},issa diop,I. Diop,Issa Laye Lucas Jean Diop,CB,Toulouse Football Club,32,73,Right,3
+210736,4355.0,{'Emerson Palmieri dos Santos'},emerson palmieri dos santos,Emerson,Emerson Palmieri dos Santos,LB,AS Roma,50,59,Left,3
+163186,4380.0,{'Guillaume Gillet'},guillaume gillet,G. Gillet,Guillaume Olivier V. Gillet,"CM, CDM, RB",FC Nantes,72,78,Right,3
+198949,4382.0,{'Kévin Malcuit'},kevin malcuit,K. Malcuit,Kévin Malcuit,RB,AS Saint-Étienne,59,60,Right,3
+231098,4390.0,{'Charles Traoré'},charles traore,C. Traoré,Charles Blonda Traoré,LB,ESTAC Troyes,35,45,Left,2
+198076,4406.0,{'Aymen Abdennour'},aymen abdennour,A. Abdennour,Aymen Abdennour,CB,Valencia CF,56,76,Left,3
+228592,4413.0,{'Aloïs Confais'},alois confais,A. Confais,Alois Maxence Confais,"CDM, RB",ESTAC Troyes,51,48,Right,2
+181560,4463.0,{'Mapou Yanga-Mbiwa'},mapou yanga mbiwa,M. Yanga-M'Biwa,Mapou Nzapali Yanga Mbiwa,"CB, RB",Olympique Lyonnais,38,76,Right,3
+231266,4473.0,{'Nicolas Janvier'},nicolas janvier,N. Janvier,Nicolas Janvier,"CAM, RM",Stade Rennais,51,58,Left,3
+209502,4539.0,{'Michaël Jordan Nkololo'},michael jordan nkololo,M. Nkololo,Michaël Jordan N'Kololo,"CAM, RW",Stade Malherbe Caen,66,61,Right,3
+201315,4542.0,{'Pablo Nascimento Castro'},pablo nascimento castro,Pablo,Pablo Nascimento Castro,CB,FC Girondins de Bordeaux,52,71,Right,2
+153296,4602.0,{'Yoann Gourcuff'},yoann gourcuff,Y. Gourcuff,Yoann Miguel Gourcuff,"CAM, CM, LW",Stade Rennais,73,73,Right,5
+201145,4723.0,{'Mickaël Le Bihan'},mickael le bihan,M. Le Bihan,Mickaël Le Bihan,"ST, RM",OGC Nice,66,70,Right,3
+152536,4804.0,{'Bradley Johnson'},bradley johnson,B. Johnson,Bradley Paul Johnson,"CM, LM, CDM",Norwich City,75,76,Left,2
+183385,4828.0,{'Adlène Guédioura'},adlene guedioura,A. Guédioura,Adlène Guédioura,"CM, CDM",Watford,67,64,Right,4
+224422,4909.0,{'Jeremie Boga'},jeremie boga,J. Boga,Jérémie Boga,"ST, LM",Stade Rennais,64,53,Right,3
+193738,5242.0,{'Younès Belhanda'},younes belhanda,Y. Belhanda,Younes Belhanda,"CAM, CM, LM",FC Schalke 04,74,67,Right,4
+164477,5475.0,{'John Michael Nchekwube Obinna'},john michael nchekwube obinna,J. Mikel,John Obi Mikel,CDM,Chelsea FC,55,74,Right,3
+231443,5477.0,{'Ousmane Dembélé'},ousmane dembele,O. Dembelé,Masour Ousmane Dembélé,"CAM, RM, LM",Stade Rennais,70,43,Left,5
+198553,5602.0,{'Cristian Gamboa Luna'},cristian gamboa luna,C. Gamboa,Cristian Esteban Gamboa Luna,RB,West Bromwich Albion,59,57,Right,3
+210406,5660.0,{'Piotr Zieliński'},piotr zielinski,P. Zieliński,Piotr Sebastian Zieliński,"CM, CAM",Empoli,64,52,Right,3
+191565,5679.0,{'Yūya Ōsako'},yuya osako,Y. Osako,Yūya Ōsako,"CF, ST, CAM, RM",1. FC Köln,70,70,Right,5
+189358,5684.0,{'Shinji Kagawa'},shinji kagawa,S. Kagawa,Shinji Kagawa,"CAM, CF",Borussia Dortmund,69,45,Right,4
+205114,5687.0,{'Takashi Inui'},takashi inui,T. Inui,Takashi Inui,"LM, RM, CAM",SD Eibar,57,41,Right,3
+198335,5836.0,{'Bryan Oviedo'},bryan oviedo,B. Oviedo,Bryan Josué Oviedo Jiménez,LB,Everton FC,61,48,Left,3
+210243,6352.0,{'Ricardo Domingos Barbosa Pereira'},ricardo domingos barbosa pereira,Ricardo Pereira,Ricardo Domingos Barbosa Pereira,"RB, LB",OGC Nice,67,65,Right,5
+171579,6391.0,{'Raúl García Escudero'},raul garcia escudero,Raúl García,Raúl García Escudero,CAM,Athletic Club de Bilbao,76,88,Right,3
+205192,6609.0,{'Denis Suárez Fernández'},denis suarez fernandez,Denis Suarez,Denis Suárez Fernández,"LM, RM, CAM",Villarreal CF,70,44,Right,3
+45186,6651.0,{'Joaquín Sánchez Rodríguez'},joaquin sanchez rodriguez,Joaquín,Joaquín Sánchez Rodríguez,"RM, LM, CAM",Fiorentina,73,56,Right,3
+194879,6700.0,{'Sergio Enrich Ametller'},sergio enrich ametller,Sergi Enrich,Sergi Enrich Ametller,ST,SD Eibar,66,79,Left,3
+227106,6749.0,{'Diego González Polanco'},diego gonzalez polanco,Diego González,Diego González Polanco,CB,Sevilla FC,32,53,Left,3
+231866,6765.0,{'Rodrigo Hernández Cascante'},rodrigo hernandez cascante,Rodri,Rodrigo Hernández Cascante,"CDM, CM",Villarreal CF,49,44,Right,3
+45595,6827.0,{'Daniele Bonera'},daniele bonera,D. Bonera,Daniele Bonera,CB,Villarreal CF,39,72,Right,3
+232437,6844.0,{'Federico Ricca Rostagnol'},federico ricca rostagnol,F. Ricca,Federico Ricca Rostagnol,"LB, LM, CB", Málaga CF,30,67,Left,3
+231638,6847.0,{'Adalberto Peñaranda Maestre'},adalberto penaranda maestre,A. Peñaranda,Adalberto Peñaranda Maestre,"ST, LM",Granada CF,71,71,Right,3
+232665,6863.0,{'Mauro Wilney Arambarri Rosa'},mauro wilney arambarri rosa,M. Arambarri,Mauro Wilney Arambarri Rosa,"CDM, CM",FC Girondins de Bordeaux,48,60,Right,3
+178250,6867.0,{'Papa Kouly Diop'},papa kouly diop,P. Diop,"Papakouli ""Pape"" Diop","CDM, CM", RCD Espanyol,66,75,Right,3
+233231,6906.0,{'Jon Bautista Orgilles'},jon bautista orgilles,J. Bautista,Jon Bautista Orgilles,ST,Real Sociedad,62,61,Right,3
+219808,6928.0,{'Pedro Taunausú Domínguez Placeres'},pedro taunausu dominguez placeres,Tana,Pedro Tanausú Domínguez Placeres,"CAM, LM, RM, CM",UD Las Palmas,65,28,Right,4
+768,6938.0,{'Felipe Dias da Silva dal Belo'},felipe dias da silva dal belo,Felipe,Felipe Dias da Silva dal Belo,CB,Udinese Calcio,35,71,Left,3
+202024,6983.0,{'Remo Freuler'},remo freuler,R. Freuler,Remo Freuler,"CM, CDM, CAM",Atalanta BC,62,39,Right,3
+190782,7121.0,{'Sandro Ranieri Guimarães Cordeiro'},sandro ranieri guimaraes cordeiro,Sandro,Sandro Raniere Guimarães Cordeiro,"CM, CDM",West Bromwich Albion,67,67,Right,3
+210320,7164.0,{'Ibrahima Mbaye'},ibrahima mbaye,I. Mbaye,Ibrahima Mbaye,"RB, RM", Bologna FC,53,60,Right,3
+186200,7171.0,{'Fabio Borini'},fabio borini,F. Borini,Fabio Borini,"RM, LM, ST",Sunderland AFC,75,75,Right,3
+190196,7211.0,{'Zargo Touré'},zargo toure,Z. Toure,Zargo Touré,CB,FC Lorient,29,79,Right,3
+205641,7303.0,{'Lenny Nangis'},lenny nangis,L. Nangis,Lenny Loïc Nangis,"LM, RM",Lille OSC,64,58,Right,3
+231612,7322.0,{'Romain Del Castillo'},romain del castillo,R. Del Castillo,Romain Del Castillo,LW,Olympique Lyonnais,54,44,Left,2
+225863,7323.0,{'Olivier Boscagli'},olivier boscagli,O. Boscagli,Olivier Maxime Boscagli,"CB, LB",OGC Nice,27,65,Left,3
+231109,7369.0,{'Aly Ndom'},aly ndom,A. Ndom,Aly Ndom,CDM,Stade de Reims,56,71,Left,2
+221177,7406.0,{'Julien Bègue'},julien begue,J. Bègue,Julien Antoine Bègue,ST,En Avant Guingamp,60,63,Left,3
+220421,7438.0,{'Hassane Kamara'},hassane kamara,H. Kamara,Hassane Kamara,"RM, LM",Stade de Reims,55,36,Right,3
+232360,7525.0,{'Gaëtan Perrin'},gaetan perrin,G. Perrin,Gaëtan Perrin,RM,Olympique Lyonnais,61,60,Right,3
+231226,7595.0,{'Dorian Caddy'},dorian caddy,D. Caddy,Dorian Caddy,ST,OGC Nice,65,63,Right,3
+215651,7794.0,{'Samir Caetano de Souza Santos'},samir caetano de souza santos,Samir,Samir Caetano de Souza Santos,CB,Hellas Verona FC,35,70,Left,2
+198079,8187.0,{'Marcel Büchel'},marcel buchel,M. Büchel,Marcel Büchel,CM,Empoli,58,48,Left,3
+213345,8217.0,{'Kingsley Coman'},kingsley coman,K. Coman,Kingsley Junior Coman,"LW, ST, RW",Bayern München,73,52,Right,3
+203458,8291.0,{'Arlind Afrim Ajeti'},arlind afrim ajeti,A. Ajeti,Arlind Afrim Ajeti,CB,Frosinone,37,68,Right,3
+158138,8308.0,{'Aaron Hunt'},aaron hunt,A. Hunt,Aaron Hunt,CAM,Hamburger SV,77,64,Left,3
+169808,8463.0,{'Urby Emanuelson'},urby emanuelson,U. Emanuelson,Urby Vitorrio Diego Emanuelson,"LB, LM",Hellas Verona FC,67,56,Left,2
+212150,8508.0,{'Max Meyer'},max meyer,M. Meyer,Maximilian Meyer,"CAM, LM, CM",Schalke 04,62,37,Right,4
+200641,8523.0,{'Yevhen Konoplyanka'},yevhen konoplyanka,Y. Konoplyanka,Yevhen Konoplyanka,LM,Sevilla FC,76,49,Right,4
+193057,8558.0,{'Charlison Benschop'},charlison benschop,C. Benschop,Charlison Girigorio Benschop,"ST, CAM, CF",Hannover 96,72,66,Right,3
+162369,8571.0,{'Vedad Ibišević'},vedad ibisevic,V. Ibišević,Vedad Ibišević,ST, Hertha BSC,76,79,Right,4
+123576,8871.0,{'Marco Borriello'},marco borriello,M. Borriello,Marco Borriello,ST,Atalanta BC,72,80,Left,2
+232118,8981.0,{'Antoine Rabillard'},antoine rabillard,A. Rabillard,Antoine Rabillard,ST,Olympique de Marseille,63,61,Right,4
+212782,9070.0,{'Hiram Boateng'},hiram boateng,H. Boateng,Hiram Kojo Kwarteng Boateng,"CDM, CM",Crystal Palace,49,60,Left,3
+207645,9536.0,{'Modou Barrow'},modou barrow,M. Barrow,Modou Secka Barrow,"RW, ST, RM",Swansea City,61,43,Left,2
+228814,9630.0,{'Andre Green'},andre green,A. Green,Andre Jay Green,LM,Aston Villa,57,50,Right,3
+213697,9648.0,{'Paddy McNair'},paddy mcnair,P. McNair,Patrick James Coleman McNair,"CB, RB",Manchester United,41,68,Right,3
+201380,10330.0,{'Gadji Celi Carmen Junior Tallo'},gadji celi carmen junior tallo,J. Tallo,Gadji Celi Carmel Junior Tallo,ST,Lille OSC,68,66,Right,3
+231242,10448.0,{'Adam Ounas'},adam ounas,A. Ounas,Adam Mohamed Ounas,"RW, ST, CAM",FC Girondins de Bordeaux,64,51,Left,4
+231346,10461.0,{'Alexis Alégué Elandi'},alexis alegue elandi,A. Alégué,Alexis Alégué Elandi,"RM, CF",FC Nantes,55,42,Left,3
+190034,10476.0,{'Timothée Kolodziejczak'},timothee kolodziejczak,T. Kolodziejczak,Timothée Christian Kolodziejczak,"CB, LB",Sevilla FC,41,67,Left,2
+188765,10522.0,{'Mehdi Mostefa Sbaa'},mehdi mostefa sbaa,M. Mostefa,Mehdi Mostefa Sbaa,"CDM, RB",SC Bastia,49,73,Right,3
+231535,10779.0,{'Cameron Borthwick-Jackson'},cameron borthwick jackson,C. Borthwick-Jackson,Cameron Jake Borthwick-Jackson,"LB, CB",Manchester United,40,65,Left,3
+177553,10790.0,{'Adelino André Vieira Freitas'},adelino andre vieira freitas,Vieirinha,Adelino André Vieira de Freitas,"RM, RB",VfL Wolfsburg,73,42,Right,4
+190875,10919.0,{'Juraj Kucka'},juraj kucka,J. Kucka,Juraj Kucka,CM,AC Milan,74,74,Right,3
+184716,10931.0,{'Joe Allen'},joe allen,J. Allen,Joseph Michael Allen,"CM, CDM",Liverpool FC,56,44,Right,3
+134956,10936.0,{'Lorik Agim Cana'},lorik agim cana,L. Cana,Lorik Agim Cana,CB,FC Nantes,55,78,Right,3
+149791,10966.0,{'Wes Hoolahan'},wes hoolahan,W. Hoolahan,Wesley Hoolahan,CAM,Norwich City,70,43,Left,2
+201884,10967.0,{‘Robert Brady'},Robert brady,R. Brady,Robert Brady,"LM, LB, LWB",Norwich City,69,53,Left,4
+231627,11128.0,{'Umar Sadiq Mesbah'},umar sadiq mesbah,S. Umar,Umar Sadiq Mesbah,ST,AS Roma,60,62,Right,3
+25420,11132.0,{'Claudio Miguel Pizarro Bossio'},claudio miguel pizarro bossio,C. Pizarro,Claudio Miguel Pizarro Bossio,"ST, CAM",Werder Bremen,79,80,Right,4
+190670,11286.0,{'Dominik Maroh'},dominik maroh,D. Maroh,Dominic Maroh,CB,1. FC Köln,39,75,Right,2
+189908,11508.0,{'Łukasz Skorupski'},ukasz skorupski,Ł. Skorupski,Łukasz Skorupski,GK,Empoli,17,10,Right,2
+139597,11542.0,{'Javier Guerra Rodríguez'},javier guerra rodriguez,Javi Guerra,Javier Guerra Rodríguez,ST,Rayo Vallecano,73,75,Right,3
+210389,13448.0,{'Bradley Shaun Smith'},bradley shaun smith,B. Smith,Bradley Shaun Smith,"LB, LWB",Liverpool FC,42,35,Left,3
+190752,13846.0,{'Jan Kirchhoff'},jan kirchhoff,J. Kirchhoff,Jan Tilman Kirchhoff,"CDM, CB",Sunderland AFC,40,84,Right,3
+209973,16014.0,{'Jean Pierre Nsamé'},jean pierre nsame,J. N'Samé,Jean-Pierre Nsame,ST, Angers SCO,59,67,Right,3
+210625,16027.0,{'Kevin Mbabu'},kevin mbabu,K. Mbabu,Melingo Kevin Mbabu,"LB, RB",Newcastle United,31,53,Right,3
+198900,16061.0,{'Uroš Ćosić'},uros cosic,U. Ćosić,Uroš Ćosić,CB,Empoli,30,67,Right,2
+204260,16271.0,{'Florian Raspentino'},florian raspentino,F. Raspentino,Florian Raspentino,"RM, ST",SC Bastia,66,66,Right,3
+210872,16426.0,{'Wanderson Maciel Sousa Campos'},wanderson maciel sousa campos,Wanderson,Wanderson Maciel Sousa Campos,"RM, LW, LM",Getafe CF,57,41,Right,4
+231493,16502.0,{'László Kleinheisler'},laszlo kleinheisler,L. Kleinheisler,László Kleinheisler,"LM, RM, CAM", Werder Bremen,58,44,Right,4
+231361,18921.0,{'Joris Gnagnon'},joris gnagnon,J. Gnagnon,Joris Gnagnon,CB,Stade Rennais,34,59,Right,2
+137809,18953.0,{'Vágner Silva de Souza'},vagner silva de souza,Vágner Love,Vágner Silva de Souza,"ST, CF, LW",AS Monaco,78,76,Left,4
+152514,19688.0,{'Jason Puncheon'},jason puncheon,J. Puncheon,Jason David Ian Puncheon,"CAM, LM, RM, CM",Crystal Palace,74,41,Left,2
+163083,19813.0,{'Rolando Jorge Pires da Fonseca'},rolando jorge pires da fonseca,Rolando,Rolando Jorge Pires da Fonseca,CB,Olympique de Marseille,42,81,Right,2
+211300,20039.0,{'Anthony Martial'},anthony martial,A. Martial,Anthony Jordan Martial,"LM, ST",Manchester United,76,72,Right,4
+231640,20063.0,{'Javier Ontiveros Parra'},javier ontiveros parra,Javi Ontiveros,Javier Ontiveros Parra,RM LM,Málaga CF,50,32,Right,3
+169697,20066.0,{'Darren Randolph'},darren randolph,D. Randolph,Darren Edward Andrew Randolph,GK,West Ham United,20,16,Right,3
+138726,20285.0,{'Joleon Lescott'},joleon lescott,J. Lescott,Joleon Patrick Lescott,CB,Aston Villa,48,82,Left,3
+159145,20521.0,{'Bafétimbi Gomis'},bafetimbi gomis,B. Gomis,Bafétimbi Fredius Gomis,ST,Swansea City,80,81,Right,3
+182763,20543.0,{'Nikica Jelavić'},nikica jelavic,N. Jelavić,Nikica Jelavić,ST,West Ham United,74,77,Right,4
+231205,20950.0,{'Yanni Regäsel'},yanni regasel,Y. Regäsel,Yanni Regäsel,RB,Eintracht Frankfurt,33,45,Right,3
+224526,20951.0,{'Jordan Lyden'},jordan lyden,J. Lyden,Jordan David Lyden,CM,Aston Villa,50,61,Right,3
+216299,22058.0,{'Connor Steven Randall'},connor steven randall,C. Randall,Connor Steven Randall,"RB, CM",Liverpool FC,53,30,Right,4
+190276,23203.0,{'Stopilla Sunzu'},stopilla sunzu,S. Sunzu,Stoppila Sunzu,CB,Lille OSC,39,72,Right,2
+181402,23241.0,{'William Vainqueur'},william vainqueur,W. Vainqueur,William-Jacques Vainqueur,"CDM, CM",AS Roma,59,58,Right,3
+177392,23663.0,{'Dieumerci Mbokani Bezua'},dieumerci mbokani bezua,D. Mbokani,"Dieudonné ""Dieumerci"" Mbokani Bezua",ST,Norwich City,75,79,Right,3
+204135,23994.0,{'Alejandro Menéndez Díez'},alejandro menendez diez,Álex Menéndez,Alejandro Menéndez Díez," LB, LM",Real Sporting de Gijón,62,53,Left,3
+211671,24453.0,{'Josip Radošević'},josip radosevic,J. Radošević,Josip Radošević,"CDM, CM",SD Eibar,49,60,Right,3
+208384,24646.0,{'Rafidine Abdullah'},rafidine abdullah,R. Abdullah,Rafidine Abdullah,CDM,FC Lorient,52,59,Right,3
+231873,24782.0,{'Jonhatan Montiel Caballero'},jonhatan montiel caballero,Joni Montiel,Jonathan Montiel Caballero,CAM,Rayo Vallecano,51,45,Left,2
+230885,25152.0,{'Bruno Henrique Pinto'},bruno henrique pinto,Bruno Henrique,Bruno Henrique Pinto,"RW, ST, RM",VfL Wolfsburg,70,65,Right,3
+180432,25345.0,{'Anderson Hernanes de Carvalho Andrade'},anderson hernanes de carvalho andrade,Hernanes,Anderson Hernanes de Carvalho Viana Lima,"CAM, CM",Juventus FC,77,51,Right,5
+180175,25351.0,{'Alexandre Rodrigues da Silva'},alexandre rodrigues da silva,Alexandre Pato,Alexandre Rodrigues da Silva,ST,Chelsea FC,78,73,Right,3
+135475,25430.0,{'Felipe Melo de Carvalho'},felipe melo de carvalho,Felipe Melo,Felipe Melo de Carvalho,"CDM, CM",Inter Milan,71,83,Right,3
+142822,25997.0,{'Jonás Manuel Gutiérrez'},jonas manuel gutierrez,J. Gutiérrez,Jonás Manuel Gutiérrez,LM,RC Deportivo de La Coruña,69,63,Right,3
+147004,26211.0,{'Joan Verdú Fernández'},joan verdu fernandez,Verdú,Joan Verdú Fernández,"CAM, CM, RM",Levante UD,72,54,Right,3
+146121,26248.0,{'David Barral Torres'},david barral torres,David Barral,David Barral Torres,ST,Granada CF,74,73,Right,3
+53050,26699.0,{'Emmanuel Adebayor'},emmanuel adebayor,E. Adebayor,Sheyi Emmanuel Adebayor,ST,Crystal Palace,78,80,Right,3
+168630,26752.0,{'Mouhamadou Dabo'},mouhamadou dabo,M. Dabo,Mouhamadou Dabo,"LB, RB",ESTAC Troyes,55,63,Right,3
+215056,27595.0,{'Carlos Mario Carbonero Mancilla'},carlos mario carbonero mancilla,C. Carbonero,Carlos Mario Carbonero Mancilla,"CM, RM", Sampdoria,71,48,Right,4
+188058,27639.0,{'Artem Kravets'},artem kravets,A. Kravets,Artem Kravets,ST,VfB Stuttgart,70,74,Right,3
+176605,29312.0,{'Pablo Estífer Armero'},pablo estifer armero,P. Armero,Pablo Estifer Armero,"LB, LM",Udinese Calcio,69,52,Left,2
+208585,29875.0,{'Axel Ngando'},axel ngando,A. Ngando,Axel Thomas Ngando Elessa," CAM, CM",SC Bastia,68,54,Left,3
+187339,30847.0,{'Jiloan Hamad'},jiloan hamad,J. Hamad,Jiloan Mohamed Hamad,"RM, CAM",TSG 1899 Hoffenheim,66,22,Right,3
+179973,31268.0,{'Michel Morganella'},michel morganella,M. Morganella,Michel Morganella,"RM, RB",Palermo FC,54,59,Right,3
+194953,31625.0,{'Johan Martial'},johan martial,J. Martial,Johan Martial,CB,ESTAC Troyes,29,66,Right,3
+205983,31911.0,{'Damjan Đoković'},damjan okovic,D. Đoković,Damjan Đoković,"CM, LM",GFC Ajaccio,60,62,Left,3
+232068,32722.0,{'Norbert Sándor Balogh'},norbert sandor balogh,N. Balogh,Norbert Sándor Balogh,ST,Palermo FC,57,64,Right,3
+183870,34565.0,{'Anthony Mounier'},anthony mounier,A. Mounier,Anthony Mounier,"RW, LW",Bologna FC,71,65,Left,2
+198213,37212.0,{'Leandro Damião da Silva dos Santos'},leandro damiao da silva dos santos,Leandro Damião,Leandro Damião da Silva dos Santos,ST,Real Betis Balompié,76,80,Right,2
+5879,38389.0,{'Alberto Gilardino'},alberto gilardino,A. Gilardino,Alberto Gilardino,ST,Palermo FC,73,81,Right,3
+120238,40367.0,{'Francesco Lodi'},francesco lodi,F. Lodi,Francesco Lodi,"CDM, CM",Udinese Calcio,69,59,Left,3
+192302,40473.0,{'Artoms Rudņevs'},artoms rudnevs,A. Rudnevs,Artjoms Rudņevs,ST,Hamburger SV,74,74,Right,4
+225123,40822.0,"{""Daniel Arnaud N''Di\t""}",daniel arnaud n'di,D. Ndi,Daniel Arnaud Ndi,CAM,Real Sporting de Gijón,62,49,Right,3
+232116,45685.0,{'Sébastien Antoine Luc Salles Lamonge'},sebastien antoine luc salles lamonge,S. Salles-Lamonge,Sébastien Antoine Luc Salles-Lamonge,CAM,Stade Rennais,48,47,Right,3
+225450,75899.0,{'Kevin Toner'},kevin toner,K. Toner,Kevin Stephen Toner,"CB, LB",Aston Villa,34,61,Left,3
+179563,106683.0,{'Saïdi Ntibazonkiza'},saidi ntibazonkiza,S. Ntibazonkiza,Saïdi Ntibazonkiza,"RW, LM",Stade Malherbe Caen,64,41,Right,3
+99835,128704.0,{'Emmanuel Emenike'},emmanuel emenike,E. Emenike,Emmanuel Chinenye Emenike,"ST, RM",West Ham United,74,70,Right,4
+205406,386514.0,{'Luca Martinelli'},luca martinelli,L. Martinelli,Luca Martinelli,CB, Empoli,26,60,Right,3
+164,386657.0,{'Giampiero Pinzi'},giampiero pinzi,G. Pinzi,Giampiero Pinzi,"CM, CDM",Chievo Verona,69,68,Right,3
+49617,387300.0,{'Cristian Zaccardo'},cristian zaccardo,C. Zaccardo,Cristian Zaccardo,"CB, RB",Carpi,47,72,Right,3
+158738,387832.0,{'Filippo Porcari'},filippo porcari,F. Porcari,Filippo Porcari,"CM, CDM",Carpi,57,57,Right,3
+232072,398941.0,{'Vasyl Pryyma'},vasyl pryyma,V. Pryyma,Vasyl Pryyma,CB,Frosinone,30,61,Right,2
+150451,401471.0,{'Henri Bienvenu Ntsama'},henri bienvenu ntsama,H. Bienvenu,Henri Bienvenu Ntsama,"ST, CF",ESTAC Troyes,65,68,Right,2
+231119,401603.0,{'Erin Jorge Gomes Pinheiro'},erin jorge gomes pinheiro,Erin Pinheiro,Erin Jorge Gomes Pinheiro,CM,AS Saint-Étienne,54,52,Right,3
+226163,402967.0,Julien Romain,julien romain,J. Romain,Julien Romain,"CAM, ST",SC Bastia,59,47,Right,4
